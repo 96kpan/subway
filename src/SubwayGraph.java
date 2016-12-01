@@ -18,13 +18,13 @@ public class SubwayGraph {
 
 	private SplayTree tree;
 	private Node root; // root of curr tree
-	private int v; // number of vertices
+	//private int v; // number of vertices
 
 	// construct an empty graph
 	public SubwayGraph() {
 		tree = new SplayTree();
 		root = tree.root;
-		v = 0;
+		//v = 0;
 	}
 
 	// optional debug representation of graph
@@ -72,7 +72,7 @@ public class SubwayGraph {
 		// splay tree to insert. This should check for nullpointerexceptions
 		// and other error handlings.
 		tree.insert_record(p, s);
-		v++; // increases the number of vertices
+		//v++; // increases the number of vertices
 	}
 
 	// The adjacent command says that the station at coordinates (x1, y1) is
@@ -148,6 +148,7 @@ public class SubwayGraph {
 	public String route(Point start, Point finish) {
 		
 		//if one of the points do not exist, we exit out with NO PATH found
+		//to prevent a null pointer exception
 		if(tree.search(start) == null || tree.search(finish) == null){
 			return "NO PATH";
 		}
@@ -238,17 +239,38 @@ public class SubwayGraph {
 	}
 
 	// extra credit -- remove a vertex and all incident edges
+	/*
+	 * This command is optional, for extra credit, and removes the station at 
+	 * location (x, y) and all its connections.  If the station does not exist, 
+	 * the command is ignored.  No output is required.
+	 * 
+	 * We first check if the Point exists. If it does exist, then we can proceed
+	 * to the deletion method. However, if it doesn't exist, to prevent a null pointer
+	 * exception, we just return and ignore. 
+	 * 
+	 * But if it does exist, we go to that node with point loc and go through it's
+	 * adjacency list. We then traverse to each node, find that respective adjacency 
+	 * list and delete that node with point loc. Then we delete the overall node 
+	 * from our tree.
+	 * 
+	 * Again. No output is required, thus a return type of void
+	 */
 	public void delete(Point loc) {
+		
+		//if doesn't exist, ignore, to prevent a null pointer exception
+		if(tree.search(loc) == null)
+			return;
 
 		// splay the point's node to find the respective adjacency list
 		ArrayList list = tree.search(loc).adjacencyList; //gets list of node
 		Node removeNode = tree.search(loc); //gets node
 
+		//goes through the adj list and remove the removeNode from that list
 		for(int i = 0; i < list.size(); i++){
 			//go to that node's adjacency list and delete that index
-			Node temp = (Node) list.get(i);
-			ArrayList tempList = temp.adjacencyList;
-			tempList.remove(removeNode);
+			Node temp = (Node) list.get(i); //get node
+			ArrayList tempList = temp.adjacencyList; //get list of that node
+			tempList.remove(removeNode); //remove the desired node -> Node with loc Point
 		}
 
 		// then delete overall node
