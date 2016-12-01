@@ -1,0 +1,5504 @@
+1c1,4
+< blocka10001
+---
+> 
+> ../blocka/blocka
+> 
+> ../blocka/blocka10001
+5c8,9
+< blocka10002
+---
+> 
+> ../blocka/blocka10002
+10c14,15
+< blocka10003
+---
+> 
+> ../blocka/blocka10003
+16c21,22
+< blocka10004
+---
+> 
+> ../blocka/blocka10004
+23c29,30
+< blocka10005
+---
+> 
+> ../blocka/blocka10005
+31c38,39
+< blocka10006
+---
+> 
+> ../blocka/blocka10006
+36c44,45
+< blocka10007
+---
+> 
+> ../blocka/blocka10007
+42c51,52
+< blocka10008
+---
+> 
+> ../blocka/blocka10008
+49c59,60
+< blocka10009
+---
+> 
+> ../blocka/blocka10009
+57c68,69
+< blocka10010
+---
+> 
+> ../blocka/blocka10010
+63c75,76
+< blocka10011
+---
+> 
+> ../blocka/blocka10011
+72c85,86
+< blocka10012
+---
+> 
+> ../blocka/blocka10012
+80c94,95
+< blocka10013
+---
+> 
+> ../blocka/blocka10013
+87c102,103
+< blocka10014
+---
+> 
+> ../blocka/blocka10014
+94c110,111
+< blocka10015
+---
+> 
+> ../blocka/blocka10015
+104c121,122
+< blocka10016
+---
+> 
+> ../blocka/blocka10016
+112c130,131
+< blocka10017
+---
+> 
+> ../blocka/blocka10017
+121c140,141
+< blocka10018
+---
+> 
+> ../blocka/blocka10018
+130c150,151
+< blocka10019
+---
+> 
+> ../blocka/blocka10019
+138c159,160
+< blocka10020
+---
+> 
+> ../blocka/blocka10020
+147c169,170
+< blocka10021
+---
+> 
+> ../blocka/blocka10021
+157c180,181
+< blocka10022
+---
+> 
+> ../blocka/blocka10022
+160,165c184,189
+< Station 12, 19 burlywood
+< Station 11, 16 cornflowerblue
+< Station 10, 13 darkblue
+< Station 9, 10 darkmagenta
+< Station 13, 10 darkolivegreen
+< Station 17, 10 darkorange
+---
+> Station 14, 22 blanchedalmond
+> Station 16, 22 blue
+> Station 17, 22 blueviolet
+> Station 18, 19 coral
+> Station 19, 16 cornsilk
+> Station 20, 13 darkcyan
+168c192,193
+< blocka10023
+---
+> 
+> ../blocka/blocka10023
+177c202,203
+< blocka10024
+---
+> 
+> ../blocka/blocka10024
+186c212,213
+< blocka10025
+---
+> 
+> ../blocka/blocka10025
+196c223,224
+< blocka10026
+---
+> 
+> ../blocka/blocka10026
+199,204c227,232
+< Station 12, 19 burlywood
+< Station 11, 16 cornflowerblue
+< Station 10, 13 darkblue
+< Station 9, 10 darkmagenta
+< Station 13, 10 darkolivegreen
+< Station 17, 10 darkorange
+---
+> Station 14, 22 blanchedalmond
+> Station 16, 22 blue
+> Station 17, 22 blueviolet
+> Station 18, 19 coral
+> Station 19, 16 cornsilk
+> Station 20, 13 darkcyan
+208c236,237
+< blocka10027
+---
+> 
+> ../blocka/blocka10027
+219c248,249
+< blocka10028
+---
+> 
+> ../blocka/blocka10028
+229c259,260
+< blocka10029
+---
+> 
+> ../blocka/blocka10029
+239c270,271
+< blocka10030
+---
+> 
+> ../blocka/blocka10030
+250c282,283
+< blocka10031
+---
+> 
+> ../blocka/blocka10031
+262c295,296
+< blocka10032
+---
+> 
+> ../blocka/blocka10032
+275c309,310
+< blocka10033
+---
+> 
+> ../blocka/blocka10033
+279c314,315
+< blocka10034
+---
+> 
+> ../blocka/blocka10034
+283c319,320
+< blocka10035
+---
+> 
+> ../blocka/blocka10035
+288c325,326
+< blocka10036
+---
+> 
+> ../blocka/blocka10036
+294c332,333
+< blocka10037
+---
+> 
+> ../blocka/blocka10037
+301c340,341
+< blocka10038
+---
+> 
+> ../blocka/blocka10038
+305c345,346
+< blocka10039
+---
+> 
+> ../blocka/blocka10039
+310c351,352
+< blocka10040
+---
+> 
+> ../blocka/blocka10040
+316c358,359
+< blocka10041
+---
+> 
+> ../blocka/blocka10041
+323c366,367
+< blocka10042
+---
+> 
+> ../blocka/blocka10042
+328c372,373
+< blocka10043
+---
+> 
+> ../blocka/blocka10043
+336c381,382
+< blocka10044
+---
+> 
+> ../blocka/blocka10044
+343c389,390
+< blocka10045
+---
+> 
+> ../blocka/blocka10045
+349c396,397
+< blocka10046
+---
+> 
+> ../blocka/blocka10046
+355c403,404
+< blocka10047
+---
+> 
+> ../blocka/blocka10047
+364c413,414
+< blocka10048
+---
+> 
+> ../blocka/blocka10048
+371c421,422
+< blocka10049
+---
+> 
+> ../blocka/blocka10049
+379c430,431
+< blocka10050
+---
+> 
+> ../blocka/blocka10050
+387c439,440
+< blocka10051
+---
+> 
+> ../blocka/blocka10051
+394c447,448
+< blocka10052
+---
+> 
+> ../blocka/blocka10052
+402c456,457
+< blocka10053
+---
+> 
+> ../blocka/blocka10053
+411c466,467
+< blocka10054
+---
+> 
+> ../blocka/blocka10054
+413,418c469,474
+< Station 12, 19 burlywood
+< Station 11, 16 cornflowerblue
+< Station 10, 13 darkblue
+< Station 9, 10 darkmagenta
+< Station 13, 10 darkolivegreen
+< Station 17, 10 darkorange
+---
+> Station 14, 22 blanchedalmond
+> Station 16, 22 blue
+> Station 17, 22 blueviolet
+> Station 18, 19 coral
+> Station 19, 16 cornsilk
+> Station 20, 13 darkcyan
+421c477,478
+< blocka10055
+---
+> 
+> ../blocka/blocka10055
+429c486,487
+< blocka10056
+---
+> 
+> ../blocka/blocka10056
+437c495,496
+< blocka10057
+---
+> 
+> ../blocka/blocka10057
+446c505,506
+< blocka10058
+---
+> 
+> ../blocka/blocka10058
+448,453c508,513
+< Station 12, 19 burlywood
+< Station 11, 16 cornflowerblue
+< Station 10, 13 darkblue
+< Station 9, 10 darkmagenta
+< Station 13, 10 darkolivegreen
+< Station 17, 10 darkorange
+---
+> Station 14, 22 blanchedalmond
+> Station 16, 22 blue
+> Station 17, 22 blueviolet
+> Station 18, 19 coral
+> Station 19, 16 cornsilk
+> Station 20, 13 darkcyan
+457c517,518
+< blocka10059
+---
+> 
+> ../blocka/blocka10059
+467c528,529
+< blocka10060
+---
+> 
+> ../blocka/blocka10060
+476c538,539
+< blocka10061
+---
+> 
+> ../blocka/blocka10061
+485c548,549
+< blocka10062
+---
+> 
+> ../blocka/blocka10062
+495c559,560
+< blocka10063
+---
+> 
+> ../blocka/blocka10063
+506c571,572
+< blocka10064
+---
+> 
+> ../blocka/blocka10064
+518c584,585
+< blocka10065
+---
+> 
+> ../blocka/blocka10065
+523c590,591
+< blocka10066
+---
+> 
+> ../blocka/blocka10066
+527c595,596
+< blocka10067
+---
+> 
+> ../blocka/blocka10067
+531c600,601
+< blocka10068
+---
+> 
+> ../blocka/blocka10068
+536c606,607
+< blocka10069
+---
+> 
+> ../blocka/blocka10069
+542c613,614
+< blocka10070
+---
+> 
+> ../blocka/blocka10070
+547c619,620
+< blocka10071
+---
+> 
+> ../blocka/blocka10071
+551c624,625
+< blocka10072
+---
+> 
+> ../blocka/blocka10072
+556c630,631
+< blocka10073
+---
+> 
+> ../blocka/blocka10073
+562c637,638
+< blocka10074
+---
+> 
+> ../blocka/blocka10074
+568c644,645
+< blocka10075
+---
+> 
+> ../blocka/blocka10075
+575c652,653
+< blocka10076
+---
+> 
+> ../blocka/blocka10076
+581c659,660
+< blocka10077
+---
+> 
+> ../blocka/blocka10077
+586c665,666
+< blocka10078
+---
+> 
+> ../blocka/blocka10078
+593c673,674
+< blocka10079
+---
+> 
+> ../blocka/blocka10079
+601c682,683
+< blocka10080
+---
+> 
+> ../blocka/blocka10080
+607c689,690
+< blocka10081
+---
+> 
+> ../blocka/blocka10081
+614c697,698
+< blocka10082
+---
+> 
+> ../blocka/blocka10082
+621c705,706
+< blocka10083
+---
+> 
+> ../blocka/blocka10083
+629c714,715
+< blocka10084
+---
+> 
+> ../blocka/blocka10084
+638c724,725
+< blocka10085
+---
+> 
+> ../blocka/blocka10085
+648c735,736
+< blocka10086
+---
+> 
+> ../blocka/blocka10086
+657c745,746
+< blocka10087
+---
+> 
+> ../blocka/blocka10087
+666c755,756
+< blocka10088
+---
+> 
+> ../blocka/blocka10088
+673c763,764
+< blocka10089
+---
+> 
+> ../blocka/blocka10089
+681c772,773
+< blocka10090
+---
+> 
+> ../blocka/blocka10090
+691c783,784
+< blocka10091
+---
+> 
+> ../blocka/blocka10091
+701c794,795
+< blocka10092
+---
+> 
+> ../blocka/blocka10092
+710c804,805
+< blocka10093
+---
+> 
+> ../blocka/blocka10093
+718c813,814
+< blocka10094
+---
+> 
+> ../blocka/blocka10094
+727c823,824
+< blocka10095
+---
+> 
+> ../blocka/blocka10095
+737c834,835
+< blocka10096
+---
+> 
+> ../blocka/blocka10096
+748c846,847
+< blocka10097
+---
+> 
+> ../blocka/blocka10097
+754c853,854
+< blocka10098
+---
+> 
+> ../blocka/blocka10098
+759c859,860
+< blocka10099
+---
+> 
+> ../blocka/blocka10099
+763c864,865
+< blocka10100
+---
+> 
+> ../blocka/blocka10100
+767c869,870
+< blocka10101
+---
+> 
+> ../blocka/blocka10101
+772c875,876
+< blocka10102
+---
+> 
+> ../blocka/blocka10102
+778c882,883
+< blocka10103
+---
+> 
+> ../blocka/blocka10103
+783c888,889
+< blocka10104
+---
+> 
+> ../blocka/blocka10104
+787c893,894
+< blocka10105
+---
+> 
+> ../blocka/blocka10105
+792c899,900
+< blocka10106
+---
+> 
+> ../blocka/blocka10106
+799c907,908
+< blocka10107
+---
+> 
+> ../blocka/blocka10107
+805c914,915
+< blocka10108
+---
+> 
+> ../blocka/blocka10108
+810c920,921
+< blocka10109
+---
+> 
+> ../blocka/blocka10109
+816c927,928
+< blocka10110
+---
+> 
+> ../blocka/blocka10110
+824c936,937
+< blocka10111
+---
+> 
+> ../blocka/blocka10111
+831c944,945
+< blocka10112
+---
+> 
+> ../blocka/blocka10112
+838c952,953
+< blocka10113
+---
+> 
+> ../blocka/blocka10113
+845c960,961
+< blocka10114
+---
+> 
+> ../blocka/blocka10114
+851c967,968
+< blocka10115
+---
+> 
+> ../blocka/blocka10115
+860c977,978
+< blocka10116
+---
+> 
+> ../blocka/blocka10116
+870c988,989
+< blocka10117
+---
+> 
+> ../blocka/blocka10117
+879c998,999
+< blocka10118
+---
+> 
+> ../blocka/blocka10118
+887c1007,1008
+< blocka10119
+---
+> 
+> ../blocka/blocka10119
+897c1018,1019
+< blocka10120
+---
+> 
+> ../blocka/blocka10120
+905c1027,1028
+< blocka10121
+---
+> 
+> ../blocka/blocka10121
+912c1035,1036
+< blocka10122
+---
+> 
+> ../blocka/blocka10122
+921c1045,1046
+< blocka10123
+---
+> 
+> ../blocka/blocka10123
+932c1057,1058
+< blocka10124
+---
+> 
+> ../blocka/blocka10124
+942c1068,1069
+< blocka10125
+---
+> 
+> ../blocka/blocka10125
+951c1078,1079
+< blocka10126
+---
+> 
+> ../blocka/blocka10126
+959c1087,1088
+< blocka10127
+---
+> 
+> ../blocka/blocka10127
+968c1097,1098
+< blocka10128
+---
+> 
+> ../blocka/blocka10128
+978c1108,1109
+< blocka10129
+---
+> 
+> ../blocka/blocka10129
+985c1116,1117
+< blocka10130
+---
+> 
+> ../blocka/blocka10130
+991c1123,1124
+< blocka10131
+---
+> 
+> ../blocka/blocka10131
+996c1129,1130
+< blocka10132
+---
+> 
+> ../blocka/blocka10132
+1000c1134,1135
+< blocka10133
+---
+> 
+> ../blocka/blocka10133
+1004c1139,1140
+< blocka10134
+---
+> 
+> ../blocka/blocka10134
+1011c1147,1148
+< blocka10135
+---
+> 
+> ../blocka/blocka10135
+1017c1154,1155
+< blocka10136
+---
+> 
+> ../blocka/blocka10136
+1022c1160,1161
+< blocka10137
+---
+> 
+> ../blocka/blocka10137
+1026c1165,1166
+< blocka10138
+---
+> 
+> ../blocka/blocka10138
+1034c1174,1175
+< blocka10139
+---
+> 
+> ../blocka/blocka10139
+1039c1180,1181
+< blocka10140
+---
+> 
+> ../blocka/blocka10140
+1045c1187,1188
+< blocka10141
+---
+> 
+> ../blocka/blocka10141
+1052c1195,1196
+< blocka10142
+---
+> 
+> ../blocka/blocka10142
+1061c1205,1206
+< blocka10143
+---
+> 
+> ../blocka/blocka10143
+1067c1212,1213
+< blocka10144
+---
+> 
+> ../blocka/blocka10144
+1075c1221,1222
+< blocka10145
+---
+> 
+> ../blocka/blocka10145
+1083c1230,1231
+< blocka10146
+---
+> 
+> ../blocka/blocka10146
+1090c1238,1239
+< blocka10147
+---
+> 
+> ../blocka/blocka10147
+1100c1249,1250
+< blocka10148
+---
+> 
+> ../blocka/blocka10148
+1109c1259,1260
+< blocka10149
+---
+> 
+> ../blocka/blocka10149
+1117c1268,1269
+< blocka10150
+---
+> 
+> ../blocka/blocka10150
+1124c1276,1277
+< blocka10151
+---
+> 
+> ../blocka/blocka10151
+1135c1288,1289
+< blocka10152
+---
+> 
+> ../blocka/blocka10152
+1144c1298,1299
+< blocka10153
+---
+> 
+> ../blocka/blocka10153
+1152c1307,1308
+< blocka10154
+---
+> 
+> ../blocka/blocka10154
+1160c1316,1317
+< blocka10155
+---
+> 
+> ../blocka/blocka10155
+1172c1329,1330
+< blocka10156
+---
+> 
+> ../blocka/blocka10156
+1183c1341,1342
+< blocka10157
+---
+> 
+> ../blocka/blocka10157
+1193c1352,1353
+< blocka10158
+---
+> 
+> ../blocka/blocka10158
+1202c1362,1363
+< blocka10159
+---
+> 
+> ../blocka/blocka10159
+1211c1372,1373
+< blocka10160
+---
+> 
+> ../blocka/blocka10160
+1221c1383,1384
+< blocka10161
+---
+> 
+> ../blocka/blocka10161
+1229c1392,1393
+< blocka10162
+---
+> 
+> ../blocka/blocka10162
+1236c1400,1401
+< blocka10163
+---
+> 
+> ../blocka/blocka10163
+1242c1407,1408
+< blocka10164
+---
+> 
+> ../blocka/blocka10164
+1247c1413,1414
+< blocka10165
+---
+> 
+> ../blocka/blocka10165
+1251c1418,1419
+< blocka10166
+---
+> 
+> ../blocka/blocka10166
+1259c1427,1428
+< blocka10167
+---
+> 
+> ../blocka/blocka10167
+1266c1435,1436
+< blocka10168
+---
+> 
+> ../blocka/blocka10168
+1272c1442,1443
+< blocka10169
+---
+> 
+> ../blocka/blocka10169
+1277c1448,1449
+< blocka10170
+---
+> 
+> ../blocka/blocka10170
+1286c1458,1459
+< blocka10171
+---
+> 
+> ../blocka/blocka10171
+1292c1465,1466
+< blocka10172
+---
+> 
+> ../blocka/blocka10172
+1299c1473,1474
+< blocka10173
+---
+> 
+> ../blocka/blocka10173
+1307c1482,1483
+< blocka10174
+---
+> 
+> ../blocka/blocka10174
+1317c1493,1494
+< blocka10175
+---
+> 
+> ../blocka/blocka10175
+1324c1501,1502
+< blocka10176
+---
+> 
+> ../blocka/blocka10176
+1333c1511,1512
+< blocka10177
+---
+> 
+> ../blocka/blocka10177
+1342c1521,1522
+< blocka10178
+---
+> 
+> ../blocka/blocka10178
+1350c1530,1531
+< blocka10179
+---
+> 
+> ../blocka/blocka10179
+1361c1542,1543
+< blocka10180
+---
+> 
+> ../blocka/blocka10180
+1371c1553,1554
+< blocka10181
+---
+> 
+> ../blocka/blocka10181
+1380c1563,1564
+< blocka10182
+---
+> 
+> ../blocka/blocka10182
+1388c1572,1573
+< blocka10183
+---
+> 
+> ../blocka/blocka10183
+1400c1585,1586
+< blocka10184
+---
+> 
+> ../blocka/blocka10184
+1410c1596,1597
+< blocka10185
+---
+> 
+> ../blocka/blocka10185
+1419c1606,1607
+< blocka10186
+---
+> 
+> ../blocka/blocka10186
+1428c1616,1617
+< blocka10187
+---
+> 
+> ../blocka/blocka10187
+1441c1630,1631
+< blocka10188
+---
+> 
+> ../blocka/blocka10188
+1453c1643,1644
+< blocka10189
+---
+> 
+> ../blocka/blocka10189
+1464c1655,1656
+< blocka10190
+---
+> 
+> ../blocka/blocka10190
+1474c1666,1667
+< blocka10191
+---
+> 
+> ../blocka/blocka10191
+1484c1677,1678
+< blocka10192
+---
+> 
+> ../blocka/blocka10192
+1495c1689,1690
+< blocka10193
+---
+> 
+> ../blocka/blocka10193
+1500c1695,1696
+< blocka10194
+---
+> 
+> ../blocka/blocka10194
+1504c1700,1701
+< blocka10195
+---
+> 
+> ../blocka/blocka10195
+1509c1706,1707
+< blocka10196
+---
+> 
+> ../blocka/blocka10196
+1515c1713,1714
+< blocka10197
+---
+> 
+> ../blocka/blocka10197
+1522c1721,1722
+< blocka10198
+---
+> 
+> ../blocka/blocka10198
+1530c1730,1731
+< blocka10199
+---
+> 
+> ../blocka/blocka10199
+1536c1737,1738
+< blocka10200
+---
+> 
+> ../blocka/blocka10200
+1543c1745,1746
+< blocka10201
+---
+> 
+> ../blocka/blocka10201
+1551c1754,1755
+< blocka10202
+---
+> 
+> ../blocka/blocka10202
+1555c1759,1760
+< blocka10203
+---
+> 
+> ../blocka/blocka10203
+1564c1769,1770
+< blocka10204
+---
+> 
+> ../blocka/blocka10204
+1572c1778,1779
+< blocka10205
+---
+> 
+> ../blocka/blocka10205
+1579c1786,1787
+< blocka10206
+---
+> 
+> ../blocka/blocka10206
+1584c1792,1793
+< blocka10207
+---
+> 
+> ../blocka/blocka10207
+1594c1803,1804
+< blocka10208
+---
+> 
+> ../blocka/blocka10208
+1602c1812,1813
+< blocka10209
+---
+> 
+> ../blocka/blocka10209
+1611c1822,1823
+< blocka10210
+---
+> 
+> ../blocka/blocka10210
+1620c1832,1833
+< blocka10211
+---
+> 
+> ../blocka/blocka10211
+1626c1839,1840
+< blocka10212
+---
+> 
+> ../blocka/blocka10212
+1633c1847,1848
+< blocka10213
+---
+> 
+> ../blocka/blocka10213
+1641c1856,1857
+< blocka10214
+---
+> 
+> ../blocka/blocka10214
+1650c1866,1867
+< blocka10215
+---
+> 
+> ../blocka/blocka10215
+1657c1874,1875
+< blocka10216
+---
+> 
+> ../blocka/blocka10216
+1666c1884,1885
+< blocka10217
+---
+> 
+> ../blocka/blocka10217
+1676c1895,1896
+< blocka10218
+---
+> 
+> ../blocka/blocka10218
+1686c1906,1907
+< blocka10219
+---
+> 
+> ../blocka/blocka10219
+1695c1916,1917
+< blocka10220
+---
+> 
+> ../blocka/blocka10220
+1703c1925,1926
+< blocka10221
+---
+> 
+> ../blocka/blocka10221
+1712c1935,1936
+< blocka10222
+---
+> 
+> ../blocka/blocka10222
+1723c1947,1948
+< blocka10223
+---
+> 
+> ../blocka/blocka10223
+1734c1959,1960
+< blocka10224
+---
+> 
+> ../blocka/blocka10224
+1746c1972,1973
+< blocka10225
+---
+> 
+> ../blocka/blocka10225
+1752c1979,1980
+< blocka10226
+---
+> 
+> ../blocka/blocka10226
+1757c1985,1986
+< blocka10227
+---
+> 
+> ../blocka/blocka10227
+1761c1990,1991
+< blocka10228
+---
+> 
+> ../blocka/blocka10228
+1766c1996,1997
+< blocka10229
+---
+> 
+> ../blocka/blocka10229
+1772c2003,2004
+< blocka10230
+---
+> 
+> ../blocka/blocka10230
+1779c2011,2012
+< blocka10231
+---
+> 
+> ../blocka/blocka10231
+1785c2018,2019
+< blocka10232
+---
+> 
+> ../blocka/blocka10232
+1791c2025,2026
+< blocka10233
+---
+> 
+> ../blocka/blocka10233
+1798c2033,2034
+< blocka10234
+---
+> 
+> ../blocka/blocka10234
+1805c2041,2042
+< blocka10235
+---
+> 
+> ../blocka/blocka10235
+1813c2050,2051
+< blocka10236
+---
+> 
+> ../blocka/blocka10236
+1820c2058,2059
+< blocka10237
+---
+> 
+> ../blocka/blocka10237
+1824c2063,2064
+< blocka10238
+---
+> 
+> ../blocka/blocka10238
+1832c2072,2073
+< blocka10239
+---
+> 
+> ../blocka/blocka10239
+1841c2082,2083
+< blocka10240
+---
+> 
+> ../blocka/blocka10240
+1846c2088,2089
+< blocka10241
+---
+> 
+> ../blocka/blocka10241
+1852c2095,2096
+< blocka10242
+---
+> 
+> ../blocka/blocka10242
+1859c2103,2104
+< blocka10243
+---
+> 
+> ../blocka/blocka10243
+1868c2113,2114
+< blocka10244
+---
+> 
+> ../blocka/blocka10244
+1878c2124,2125
+< blocka10245
+---
+> 
+> ../blocka/blocka10245
+1889c2136,2137
+< blocka10246
+---
+> 
+> ../blocka/blocka10246
+1899c2147,2148
+< blocka10247
+---
+> 
+> ../blocka/blocka10247
+1908c2157,2158
+< blocka10248
+---
+> 
+> ../blocka/blocka10248
+1914c2164,2165
+< blocka10249
+---
+> 
+> ../blocka/blocka10249
+1922c2173,2174
+< blocka10250
+---
+> 
+> ../blocka/blocka10250
+1933c2185,2186
+< blocka10251
+---
+> 
+> ../blocka/blocka10251
+1942c2195,2196
+< blocka10252
+---
+> 
+> ../blocka/blocka10252
+1950c2204,2205
+< blocka10253
+---
+> 
+> ../blocka/blocka10253
+1957c2212,2213
+< blocka10254
+---
+> 
+> ../blocka/blocka10254
+1966c2222,2223
+< blocka10255
+---
+> 
+> ../blocka/blocka10255
+1976c2233,2234
+< blocka10256
+---
+> 
+> ../blocka/blocka10256
+1987c2245,2246
+< blocka10257
+---
+> 
+> ../blocka/blocka10257
+1994c2253,2254
+< blocka10258
+---
+> 
+> ../blocka/blocka10258
+2000c2260,2261
+< blocka10259
+---
+> 
+> ../blocka/blocka10259
+2005c2266,2267
+< blocka10260
+---
+> 
+> ../blocka/blocka10260
+2009c2271,2272
+< blocka10261
+---
+> 
+> ../blocka/blocka10261
+2014c2277,2278
+< blocka10262
+---
+> 
+> ../blocka/blocka10262
+2020c2284,2285
+< blocka10263
+---
+> 
+> ../blocka/blocka10263
+2027c2292,2293
+< blocka10264
+---
+> 
+> ../blocka/blocka10264
+2033c2299,2300
+< blocka10265
+---
+> 
+> ../blocka/blocka10265
+2039c2306,2307
+< blocka10266
+---
+> 
+> ../blocka/blocka10266
+2047c2315,2316
+< blocka10267
+---
+> 
+> ../blocka/blocka10267
+2054c2323,2324
+< blocka10268
+---
+> 
+> ../blocka/blocka10268
+2058c2328,2329
+< blocka10269
+---
+> 
+> ../blocka/blocka10269
+2065c2336,2337
+< blocka10270
+---
+> 
+> ../blocka/blocka10270
+2074c2346,2347
+< blocka10271
+---
+> 
+> ../blocka/blocka10271
+2082c2355,2356
+< blocka10272
+---
+> 
+> ../blocka/blocka10272
+2089c2363,2364
+< blocka10273
+---
+> 
+> ../blocka/blocka10273
+2095c2370,2371
+< blocka10274
+---
+> 
+> ../blocka/blocka10274
+2100c2376,2377
+< blocka10275
+---
+> 
+> ../blocka/blocka10275
+2110c2387,2388
+< blocka10276
+---
+> 
+> ../blocka/blocka10276
+2121c2399,2400
+< blocka10277
+---
+> 
+> ../blocka/blocka10277
+2131c2410,2411
+< blocka10278
+---
+> 
+> ../blocka/blocka10278
+2140c2420,2421
+< blocka10279
+---
+> 
+> ../blocka/blocka10279
+2151c2432,2433
+< blocka10280
+---
+> 
+> ../blocka/blocka10280
+2159c2441,2442
+< blocka10281
+---
+> 
+> ../blocka/blocka10281
+2165c2448,2449
+< blocka10282
+---
+> 
+> ../blocka/blocka10282
+2174c2458,2459
+< blocka10283
+---
+> 
+> ../blocka/blocka10283
+2185c2470,2471
+< blocka10284
+---
+> 
+> ../blocka/blocka10284
+2195c2481,2482
+< blocka10285
+---
+> 
+> ../blocka/blocka10285
+2204c2491,2492
+< blocka10286
+---
+> 
+> ../blocka/blocka10286
+2211c2499,2500
+< blocka10287
+---
+> 
+> ../blocka/blocka10287
+2219c2508,2509
+< blocka10288
+---
+> 
+> ../blocka/blocka10288
+2228c2518,2519
+< blocka10289
+---
+> 
+> ../blocka/blocka10289
+2236c2527,2528
+< blocka10290
+---
+> 
+> ../blocka/blocka10290
+2243c2535,2536
+< blocka10291
+---
+> 
+> ../blocka/blocka10291
+2249c2542,2543
+< blocka10292
+---
+> 
+> ../blocka/blocka10292
+2254c2548,2549
+< blocka10293
+---
+> 
+> ../blocka/blocka10293
+2258c2553,2554
+< blocka10294
+---
+> 
+> ../blocka/blocka10294
+2263c2559,2560
+< blocka10295
+---
+> 
+> ../blocka/blocka10295
+2271c2568,2569
+< blocka10296
+---
+> 
+> ../blocka/blocka10296
+2278c2576,2577
+< blocka10297
+---
+> 
+> ../blocka/blocka10297
+2284c2583,2584
+< blocka10298
+---
+> 
+> ../blocka/blocka10298
+2293c2593,2594
+< blocka10299
+---
+> 
+> ../blocka/blocka10299
+2297c2598,2599
+< blocka10300
+---
+> 
+> ../blocka/blocka10300
+2304c2606,2607
+< blocka10301
+---
+> 
+> ../blocka/blocka10301
+2312c2615,2616
+< blocka10302
+---
+> 
+> ../blocka/blocka10302
+2322c2626,2627
+< blocka10303
+---
+> 
+> ../blocka/blocka10303
+2327c2632,2633
+< blocka10304
+---
+> 
+> ../blocka/blocka10304
+2336c2642,2643
+< blocka10305
+---
+> 
+> ../blocka/blocka10305
+2345c2652,2653
+< blocka10306
+---
+> 
+> ../blocka/blocka10306
+2353c2661,2662
+< blocka10307
+---
+> 
+> ../blocka/blocka10307
+2362c2671,2672
+< blocka10308
+---
+> 
+> ../blocka/blocka10308
+2370c2680,2681
+< blocka10309
+---
+> 
+> ../blocka/blocka10309
+2377c2688,2689
+< blocka10310
+---
+> 
+> ../blocka/blocka10310
+2383c2695,2696
+< blocka10311
+---
+> 
+> ../blocka/blocka10311
+2393c2706,2707
+< blocka10312
+---
+> 
+> ../blocka/blocka10312
+2403c2717,2718
+< blocka10313
+---
+> 
+> ../blocka/blocka10313
+2412c2727,2728
+< blocka10314
+---
+> 
+> ../blocka/blocka10314
+2419c2735,2736
+< blocka10315
+---
+> 
+> ../blocka/blocka10315
+2431c2748,2749
+< blocka10316
+---
+> 
+> ../blocka/blocka10316
+2442c2760,2761
+< blocka10317
+---
+> 
+> ../blocka/blocka10317
+2453c2772,2773
+< blocka10318
+---
+> 
+> ../blocka/blocka10318
+2462c2782,2783
+< blocka10319
+---
+> 
+> ../blocka/blocka10319
+2470c2791,2792
+< blocka10320
+---
+> 
+> ../blocka/blocka10320
+2479c2801,2802
+< blocka10321
+---
+> 
+> ../blocka/blocka10321
+2485c2808,2809
+< blocka10322
+---
+> 
+> ../blocka/blocka10322
+2490c2814,2815
+< blocka10323
+---
+> 
+> ../blocka/blocka10323
+2496c2821,2822
+< blocka10324
+---
+> 
+> ../blocka/blocka10324
+2503c2829,2830
+< blocka10325
+---
+> 
+> ../blocka/blocka10325
+2511c2838,2839
+< blocka10326
+---
+> 
+> ../blocka/blocka10326
+2520c2848,2849
+< blocka10327
+---
+> 
+> ../blocka/blocka10327
+2524c2853,2854
+< blocka10328
+---
+> 
+> ../blocka/blocka10328
+2531c2861,2862
+< blocka10329
+---
+> 
+> ../blocka/blocka10329
+2539c2870,2871
+< blocka10330
+---
+> 
+> ../blocka/blocka10330
+2548c2880,2881
+< blocka10331
+---
+> 
+> ../blocka/blocka10331
+2558c2891,2892
+< blocka10332
+---
+> 
+> ../blocka/blocka10332
+2567c2901,2902
+< blocka10333
+---
+> 
+> ../blocka/blocka10333
+2575c2910,2911
+< blocka10334
+---
+> 
+> ../blocka/blocka10334
+2579c2915,2916
+< blocka10335
+---
+> 
+> ../blocka/blocka10335
+2588c2925,2926
+< blocka10336
+---
+> 
+> ../blocka/blocka10336
+2597c2935,2936
+< blocka10337
+---
+> 
+> ../blocka/blocka10337
+2607c2946,2947
+< blocka10338
+---
+> 
+> ../blocka/blocka10338
+2617c2957,2958
+< blocka10339
+---
+> 
+> ../blocka/blocka10339
+2622c2963,2964
+< blocka10340
+---
+> 
+> ../blocka/blocka10340
+2628c2970,2971
+< blocka10341
+---
+> 
+> ../blocka/blocka10341
+2635c2978,2979
+< blocka10342
+---
+> 
+> ../blocka/blocka10342
+2643c2987,2988
+< blocka10343
+---
+> 
+> ../blocka/blocka10343
+2649c2994,2995
+< blocka10344
+---
+> 
+> ../blocka/blocka10344
+2658c3004,3005
+< blocka10345
+---
+> 
+> ../blocka/blocka10345
+2669c3016,3017
+< blocka10346
+---
+> 
+> ../blocka/blocka10346
+2678c3026,3027
+< blocka10347
+---
+> 
+> ../blocka/blocka10347
+2686c3035,3036
+< blocka10348
+---
+> 
+> ../blocka/blocka10348
+2693c3043,3044
+< blocka10349
+---
+> 
+> ../blocka/blocka10349
+2701c3052,3053
+< blocka10350
+---
+> 
+> ../blocka/blocka10350
+2712c3064,3065
+< blocka10351
+---
+> 
+> ../blocka/blocka10351
+2722c3075,3076
+< blocka10352
+---
+> 
+> ../blocka/blocka10352
+2733c3087,3088
+< blocka10353
+---
+> 
+> ../blocka/blocka10353
+2742c3097,3098
+< blocka10354
+---
+> 
+> ../blocka/blocka10354
+2750c3106,3107
+< blocka10355
+---
+> 
+> ../blocka/blocka10355
+2757c3114,3115
+< blocka10356
+---
+> 
+> ../blocka/blocka10356
+2763c3121,3122
+< blocka10357
+---
+> 
+> ../blocka/blocka10357
+2768c3127,3128
+< blocka10358
+---
+> 
+> ../blocka/blocka10358
+2774c3134,3135
+< blocka10359
+---
+> 
+> ../blocka/blocka10359
+2783c3144,3145
+< blocka10360
+---
+> 
+> ../blocka/blocka10360
+2791c3153,3154
+< blocka10361
+---
+> 
+> ../blocka/blocka10361
+2798c3161,3162
+< blocka10362
+---
+> 
+> ../blocka/blocka10362
+2802c3166,3167
+< blocka10363
+---
+> 
+> ../blocka/blocka10363
+2812c3177,3178
+< blocka10364
+---
+> 
+> ../blocka/blocka10364
+2820c3186,3187
+< blocka10365
+---
+> 
+> ../blocka/blocka10365
+2829c3196,3197
+< blocka10366
+---
+> 
+> ../blocka/blocka10366
+2838c3206,3207
+< blocka10367
+---
+> 
+> ../blocka/blocka10367
+2842c3211,3212
+< blocka10368
+---
+> 
+> ../blocka/blocka10368
+2852c3222,3223
+< blocka10369
+---
+> 
+> ../blocka/blocka10369
+2862c3233,3234
+< blocka10370
+---
+> 
+> ../blocka/blocka10370
+2871c3243,3244
+< blocka10371
+---
+> 
+> ../blocka/blocka10371
+2879c3252,3253
+< blocka10372
+---
+> 
+> ../blocka/blocka10372
+2886c3260,3261
+< blocka10373
+---
+> 
+> ../blocka/blocka10373
+2892c3267,3268
+< blocka10374
+---
+> 
+> ../blocka/blocka10374
+2897c3273,3274
+< blocka10375
+---
+> 
+> ../blocka/blocka10375
+2906c3283,3284
+< blocka10376
+---
+> 
+> ../blocka/blocka10376
+2917c3295,3296
+< blocka10377
+---
+> 
+> ../blocka/blocka10377
+2926c3305,3306
+< blocka10378
+---
+> 
+> ../blocka/blocka10378
+2932c3312,3313
+< blocka10379
+---
+> 
+> ../blocka/blocka10379
+2943c3324,3325
+< blocka10380
+---
+> 
+> ../blocka/blocka10380
+2953c3335,3336
+< blocka10381
+---
+> 
+> ../blocka/blocka10381
+2964c3347,3348
+< blocka10382
+---
+> 
+> ../blocka/blocka10382
+2972c3356,3357
+< blocka10383
+---
+> 
+> ../blocka/blocka10383
+2979c3364,3365
+< blocka10384
+---
+> 
+> ../blocka/blocka10384
+2987c3373,3374
+< blocka10385
+---
+> 
+> ../blocka/blocka10385
+2995c3382,3383
+< blocka10386
+---
+> 
+> ../blocka/blocka10386
+3002c3390,3391
+< blocka10387
+---
+> 
+> ../blocka/blocka10387
+3008c3397,3398
+< blocka10388
+---
+> 
+> ../blocka/blocka10388
+3013c3403,3404
+< blocka10389
+---
+> 
+> ../blocka/blocka10389
+3019c3410,3411
+< blocka10390
+---
+> 
+> ../blocka/blocka10390
+3026c3418,3419
+< blocka10391
+---
+> 
+> ../blocka/blocka10391
+3034c3427,3428
+< blocka10392
+---
+> 
+> ../blocka/blocka10392
+3041c3435,3436
+< blocka10393
+---
+> 
+> ../blocka/blocka10393
+3045c3440,3441
+< blocka10394
+---
+> 
+> ../blocka/blocka10394
+3052c3448,3449
+< blocka10395
+---
+> 
+> ../blocka/blocka10395
+3061c3458,3459
+< blocka10396
+---
+> 
+> ../blocka/blocka10396
+3069c3467,3468
+< blocka10397
+---
+> 
+> ../blocka/blocka10397
+3076c3475,3476
+< blocka10398
+---
+> 
+> ../blocka/blocka10398
+3086c3486,3487
+< blocka10399
+---
+> 
+> ../blocka/blocka10399
+3095c3496,3497
+< blocka10400
+---
+> 
+> ../blocka/blocka10400
+3101c3503,3504
+< blocka10401
+---
+> 
+> ../blocka/blocka10401
+3106c3509,3510
+< blocka10402
+---
+> 
+> ../blocka/blocka10402
+3110c3514,3515
+< blocka10403
+---
+> 
+> ../blocka/blocka10403
+3112,3118c3517,3523
+< Station 17, 19 chartreuse
+< Station 16, 22 blue
+< Station 14, 22 blanchedalmond
+< Station 13, 22 bisque
+< Station 12, 19 burlywood
+< Station 11, 16 cornflowerblue
+< Station 10, 13 darkblue
+---
+> Station 19, 11 darkkhaki
+> Station 15, 11 darkgreen
+> Station 11, 11 darkgray
+> Station 9, 6 darksalmon
+> Station 8, 3 deeppink
+> Station 7, 3 darkviolet
+> Station 8, 6 darkred
+3121c3526,3527
+< blocka10404
+---
+> 
+> ../blocka/blocka10404
+3132c3538,3539
+< blocka10405
+---
+> 
+> ../blocka/blocka10405
+3142c3549,3550
+< blocka10406
+---
+> 
+> ../blocka/blocka10406
+3151c3559,3560
+< blocka10407
+---
+> 
+> ../blocka/blocka10407
+3161c3570,3571
+< blocka10408
+---
+> 
+> ../blocka/blocka10408
+3168c3578,3579
+< blocka10409
+---
+> 
+> ../blocka/blocka10409
+3173c3584,3585
+< blocka10410
+---
+> 
+> ../blocka/blocka10410
+3181c3593,3594
+< blocka10411
+---
+> 
+> ../blocka/blocka10411
+3191c3604,3605
+< blocka10412
+---
+> 
+> ../blocka/blocka10412
+3200c3614,3615
+< blocka10413
+---
+> 
+> ../blocka/blocka10413
+3208c3623,3624
+< blocka10414
+---
+> 
+> ../blocka/blocka10414
+3214c3630,3631
+< blocka10415
+---
+> 
+> ../blocka/blocka10415
+3221c3638,3639
+< blocka10416
+---
+> 
+> ../blocka/blocka10416
+3229c3647,3648
+< blocka10417
+---
+> 
+> ../blocka/blocka10417
+3236c3655,3656
+< blocka10418
+---
+> 
+> ../blocka/blocka10418
+3242c3662,3663
+< blocka10419
+---
+> 
+> ../blocka/blocka10419
+3247c3668,3669
+< blocka10420
+---
+> 
+> ../blocka/blocka10420
+3253c3675,3676
+< blocka10421
+---
+> 
+> ../blocka/blocka10421
+3260c3683,3684
+< blocka10422
+---
+> 
+> ../blocka/blocka10422
+3268c3692,3693
+< blocka10423
+---
+> 
+> ../blocka/blocka10423
+3275c3700,3701
+< blocka10424
+---
+> 
+> ../blocka/blocka10424
+3279c3705,3706
+< blocka10425
+---
+> 
+> ../blocka/blocka10425
+3286c3713,3714
+< blocka10426
+---
+> 
+> ../blocka/blocka10426
+3294c3722,3723
+< blocka10427
+---
+> 
+> ../blocka/blocka10427
+3302c3731,3732
+< blocka10428
+---
+> 
+> ../blocka/blocka10428
+3311c3741,3742
+< blocka10429
+---
+> 
+> ../blocka/blocka10429
+3318c3749,3750
+< blocka10430
+---
+> 
+> ../blocka/blocka10430
+3327c3759,3760
+< blocka10431
+---
+> 
+> ../blocka/blocka10431
+3337c3770,3771
+< blocka10432
+---
+> 
+> ../blocka/blocka10432
+3341c3775,3776
+< blocka10433
+---
+> 
+> ../blocka/blocka10433
+3346c3781,3782
+< blocka10434
+---
+> 
+> ../blocka/blocka10434
+3352c3788,3789
+< blocka10435
+---
+> 
+> ../blocka/blocka10435
+3361c3798,3799
+< blocka10436
+---
+> 
+> ../blocka/blocka10436
+3371c3809,3810
+< blocka10437
+---
+> 
+> ../blocka/blocka10437
+3382,3391d3820
+< blocka10438
+< Station 12, 15 cyan
+< Station 13, 19 cadetblue
+< Station 14, 22 blanchedalmond
+< Station 16, 22 blue
+< Station 17, 22 blueviolet
+< Station 18, 19 coral
+< Station 19, 16 cornsilk
+< Station 20, 13 darkcyan
+< Station 21, 10 darkorchid
+3393c3822
+< blocka10439
+---
+> ../blocka/blocka10438
+3396,3398c3825,3839
+< Station 9, 6 darksalmon
+< Station 8, 3 deeppink
+< Station 7, 3 darkviolet
+---
+> Station 15, 11 darkgreen
+> Station 19, 11 darkkhaki
+> Station 21, 6 darkseagreen
+> Station 22, 3 deepskyblue
+> Station 23, 3 dimgray
+> Station 22, 6 darkslateblue
+> Station 21, 10 darkorchid
+> 
+> 
+> ../blocka/blocka10439
+> Station 12, 15 cyan
+> Station 11, 11 darkgray
+> Station 9, 6 darksalmon
+> Station 8, 3 deeppink
+> Station 7, 3 darkviolet
+3401c3842,3843
+< blocka10440
+---
+> 
+> ../blocka/blocka10440
+3406c3848,3849
+< blocka10441
+---
+> 
+> ../blocka/blocka10441
+3413c3856,3857
+< blocka10442
+---
+> 
+> ../blocka/blocka10442
+3423c3867,3868
+< blocka10443
+---
+> 
+> ../blocka/blocka10443
+3431c3876,3877
+< blocka10444
+---
+> 
+> ../blocka/blocka10444
+3438c3884,3885
+< blocka10445
+---
+> 
+> ../blocka/blocka10445
+3444c3891,3892
+< blocka10446
+---
+> 
+> ../blocka/blocka10446
+3452c3900,3901
+< blocka10447
+---
+> 
+> ../blocka/blocka10447
+3461c3910,3911
+< blocka10448
+---
+> 
+> ../blocka/blocka10448
+3471c3921,3922
+< blocka10449
+---
+> 
+> ../blocka/blocka10449
+3478c3929,3930
+< blocka10450
+---
+> 
+> ../blocka/blocka10450
+3484c3936,3937
+< blocka10451
+---
+> 
+> ../blocka/blocka10451
+3491c3944,3945
+< blocka10452
+---
+> 
+> ../blocka/blocka10452
+3499c3953,3954
+< blocka10453
+---
+> 
+> ../blocka/blocka10453
+3508c3963,3964
+< blocka10454
+---
+> 
+> ../blocka/blocka10454
+3518c3974,3975
+< blocka10455
+---
+> 
+> ../blocka/blocka10455
+3523c3980,3981
+< blocka10456
+---
+> 
+> ../blocka/blocka10456
+3531c3989,3990
+< blocka10457
+---
+> 
+> ../blocka/blocka10457
+3540c3999,4000
+< blocka10458
+---
+> 
+> ../blocka/blocka10458
+3550c4010,4011
+< blocka10459
+---
+> 
+> ../blocka/blocka10459
+3554c4015,4016
+< blocka10460
+---
+> 
+> ../blocka/blocka10460
+3563c4025,4026
+< blocka10461
+---
+> 
+> ../blocka/blocka10461
+3573c4036,4037
+< blocka10462
+---
+> 
+> ../blocka/blocka10462
+3582c4046,4047
+< blocka10463
+---
+> 
+> ../blocka/blocka10463
+3590c4055,4056
+< blocka10464
+---
+> 
+> ../blocka/blocka10464
+3599c4065,4066
+< blocka10465
+---
+> 
+> ../blocka/blocka10465
+3609c4076,4077
+< blocka10466
+---
+> 
+> ../blocka/blocka10466
+3611,3617c4079,4085
+< Station 9, 10 darkmagenta
+< Station 8, 6 darkred
+< Station 7, 3 darkviolet
+< Station 8, 3 deeppink
+< Station 9, 6 darksalmon
+< Station 11, 11 darkgray
+< Station 15, 11 darkgreen
+---
+> Station 11, 16 cornflowerblue
+> Station 12, 19 burlywood
+> Station 13, 22 bisque
+> Station 14, 22 blanchedalmond
+> Station 16, 22 blue
+> Station 17, 19 chartreuse
+> Station 18, 15 crimson
+3620c4088,4089
+< blocka10467
+---
+> 
+> ../blocka/blocka10467
+3624c4093,4094
+< blocka10468
+---
+> 
+> ../blocka/blocka10468
+3629c4099,4100
+< blocka10469
+---
+> 
+> ../blocka/blocka10469
+3635c4106,4107
+< blocka10470
+---
+> 
+> ../blocka/blocka10470
+3642c4114,4115
+< blocka10471
+---
+> 
+> ../blocka/blocka10471
+3647c4120,4121
+< blocka10472
+---
+> 
+> ../blocka/blocka10472
+3655c4129,4130
+< blocka10473
+---
+> 
+> ../blocka/blocka10473
+3666c4141,4142
+< blocka10474
+---
+> 
+> ../blocka/blocka10474
+3674c4150,4151
+< blocka10475
+---
+> 
+> ../blocka/blocka10475
+3681c4158,4159
+< blocka10476
+---
+> 
+> ../blocka/blocka10476
+3687c4165,4166
+< blocka10477
+---
+> 
+> ../blocka/blocka10477
+3694c4173,4174
+< blocka10478
+---
+> 
+> ../blocka/blocka10478
+3704c4184,4185
+< blocka10479
+---
+> 
+> ../blocka/blocka10479
+3713c4194,4195
+< blocka10480
+---
+> 
+> ../blocka/blocka10480
+3723c4205,4206
+< blocka10481
+---
+> 
+> ../blocka/blocka10481
+3733c4216,4217
+< blocka10482
+---
+> 
+> ../blocka/blocka10482
+3742c4226,4227
+< blocka10483
+---
+> 
+> ../blocka/blocka10483
+3750c4235,4236
+< blocka10484
+---
+> 
+> ../blocka/blocka10484
+3757c4243,4244
+< blocka10485
+---
+> 
+> ../blocka/blocka10485
+3763c4250,4251
+< blocka10486
+---
+> 
+> ../blocka/blocka10486
+3770c4258,4259
+< blocka10487
+---
+> 
+> ../blocka/blocka10487
+3780c4269,4270
+< blocka10488
+---
+> 
+> ../blocka/blocka10488
+3789c4279,4280
+< blocka10489
+---
+> 
+> ../blocka/blocka10489
+3797c4288,4289
+< blocka10490
+---
+> 
+> ../blocka/blocka10490
+3802c4294,4295
+< blocka10491
+---
+> 
+> ../blocka/blocka10491
+3811c4304,4305
+< blocka10492
+---
+> 
+> ../blocka/blocka10492
+3815c4309,4310
+< blocka10493
+---
+> 
+> ../blocka/blocka10493
+3824c4319,4320
+< blocka10494
+---
+> 
+> ../blocka/blocka10494
+3834c4330,4331
+< blocka10495
+---
+> 
+> ../blocka/blocka10495
+3842c4339,4340
+< blocka10496
+---
+> 
+> ../blocka/blocka10496
+3853c4351,4352
+< blocka10497
+---
+> 
+> ../blocka/blocka10497
+3863c4362,4363
+< blocka10498
+---
+> 
+> ../blocka/blocka10498
+3872c4372,4373
+< blocka10499
+---
+> 
+> ../blocka/blocka10499
+3879c4380,4381
+< blocka10500
+---
+> 
+> ../blocka/blocka10500
+3885c4387,4388
+< blocka10501
+---
+> 
+> ../blocka/blocka10501
+3890c4393,4394
+< blocka10502
+---
+> 
+> ../blocka/blocka10502
+3894c4398,4399
+< blocka10503
+---
+> 
+> ../blocka/blocka10503
+3902c4407,4408
+< blocka10504
+---
+> 
+> ../blocka/blocka10504
+3913c4419,4420
+< blocka10505
+---
+> 
+> ../blocka/blocka10505
+3921c4428,4429
+< blocka10506
+---
+> 
+> ../blocka/blocka10506
+3926c4434,4435
+< blocka10507
+---
+> 
+> ../blocka/blocka10507
+3936c4445,4446
+< blocka10508
+---
+> 
+> ../blocka/blocka10508
+3945c4455,4456
+< blocka10509
+---
+> 
+> ../blocka/blocka10509
+3955c4466,4467
+< blocka10510
+---
+> 
+> ../blocka/blocka10510
+3962c4474,4475
+< blocka10511
+---
+> 
+> ../blocka/blocka10511
+3968c4481,4482
+< blocka10512
+---
+> 
+> ../blocka/blocka10512
+3975c4489,4490
+< blocka10513
+---
+> 
+> ../blocka/blocka10513
+3983c4498,4499
+< blocka10514
+---
+> 
+> ../blocka/blocka10514
+3990c4506,4507
+< blocka10515
+---
+> 
+> ../blocka/blocka10515
+3996c4513,4514
+< blocka10516
+---
+> 
+> ../blocka/blocka10516
+4003c4521,4522
+< blocka10517
+---
+> 
+> ../blocka/blocka10517
+4011c4530,4531
+< blocka10518
+---
+> 
+> ../blocka/blocka10518
+4020c4540,4541
+< blocka10519
+---
+> 
+> ../blocka/blocka10519
+4028c4549,4550
+< blocka10520
+---
+> 
+> ../blocka/blocka10520
+4033c4555,4556
+< blocka10521
+---
+> 
+> ../blocka/blocka10521
+4040c4563,4564
+< blocka10522
+---
+> 
+> ../blocka/blocka10522
+4049c4573,4574
+< blocka10523
+---
+> 
+> ../blocka/blocka10523
+4058c4583,4584
+< blocka10524
+---
+> 
+> ../blocka/blocka10524
+4068c4594,4595
+< blocka10525
+---
+> 
+> ../blocka/blocka10525
+4074c4601,4602
+< blocka10526
+---
+> 
+> ../blocka/blocka10526
+4078c4606,4607
+< blocka10527
+---
+> 
+> ../blocka/blocka10527
+4087c4616,4617
+< blocka10528
+---
+> 
+> ../blocka/blocka10528
+4098c4628,4629
+< blocka10529
+---
+> 
+> ../blocka/blocka10529
+4102c4633,4634
+< blocka10530
+---
+> 
+> ../blocka/blocka10530
+4107c4639,4640
+< blocka10531
+---
+> 
+> ../blocka/blocka10531
+4115c4648,4649
+< blocka10532
+---
+> 
+> ../blocka/blocka10532
+4124c4658,4659
+< blocka10533
+---
+> 
+> ../blocka/blocka10533
+4134c4669,4670
+< blocka10534
+---
+> 
+> ../blocka/blocka10534
+4144c4680,4681
+< blocka10535
+---
+> 
+> ../blocka/blocka10535
+4151c4688,4689
+< blocka10536
+---
+> 
+> ../blocka/blocka10536
+4155c4693,4694
+< blocka10537
+---
+> 
+> ../blocka/blocka10537
+4161c4700,4701
+< blocka10538
+---
+> 
+> ../blocka/blocka10538
+4170c4710,4711
+< blocka10539
+---
+> 
+> ../blocka/blocka10539
+4177c4718,4719
+< blocka10540
+---
+> 
+> ../blocka/blocka10540
+4183c4725,4726
+< blocka10541
+---
+> 
+> ../blocka/blocka10541
+4188c4731,4732
+< blocka10542
+---
+> 
+> ../blocka/blocka10542
+4195c4739,4740
+< blocka10543
+---
+> 
+> ../blocka/blocka10543
+4203c4748,4749
+< blocka10544
+---
+> 
+> ../blocka/blocka10544
+4212c4758,4759
+< blocka10545
+---
+> 
+> ../blocka/blocka10545
+4221c4768,4769
+< blocka10546
+---
+> 
+> ../blocka/blocka10546
+4229c4777,4778
+< blocka10547
+---
+> 
+> ../blocka/blocka10547
+4236c4785,4786
+< blocka10548
+---
+> 
+> ../blocka/blocka10548
+4243c4793,4794
+< blocka10549
+---
+> 
+> ../blocka/blocka10549
+4251c4802,4803
+< blocka10550
+---
+> 
+> ../blocka/blocka10550
+4260c4812,4813
+< blocka10551
+---
+> 
+> ../blocka/blocka10551
+4269c4822,4823
+< blocka10552
+---
+> 
+> ../blocka/blocka10552
+4275c4829,4830
+< blocka10553
+---
+> 
+> ../blocka/blocka10553
+4281c4836,4837
+< blocka10554
+---
+> 
+> ../blocka/blocka10554
+4290c4846,4847
+< blocka10555
+---
+> 
+> ../blocka/blocka10555
+4300c4857,4858
+< blocka10556
+---
+> 
+> ../blocka/blocka10556
+4310c4868,4869
+< blocka10557
+---
+> 
+> ../blocka/blocka10557
+4315c4874,4875
+< blocka10558
+---
+> 
+> ../blocka/blocka10558
+4320c4880,4881
+< blocka10559
+---
+> 
+> ../blocka/blocka10559
+4330c4891,4892
+< blocka10560
+---
+> 
+> ../blocka/blocka10560
+4340c4902,4903
+< blocka10561
+---
+> 
+> ../blocka/blocka10561
+4344c4907,4908
+< blocka10562
+---
+> 
+> ../blocka/blocka10562
+4348c4912,4913
+< blocka10563
+---
+> 
+> ../blocka/blocka10563
+4357c4922,4923
+< blocka10564
+---
+> 
+> ../blocka/blocka10564
+4367c4933,4934
+< blocka10565
+---
+> 
+> ../blocka/blocka10565
+4377c4944,4945
+< blocka10566
+---
+> 
+> ../blocka/blocka10566
+4386c4954,4955
+< blocka10567
+---
+> 
+> ../blocka/blocka10567
+4394c4963,4964
+< blocka10568
+---
+> 
+> ../blocka/blocka10568
+4399c4969,4970
+< blocka10569
+---
+> 
+> ../blocka/blocka10569
+4404c4975,4976
+< blocka10570
+---
+> 
+> ../blocka/blocka10570
+4412c4984,4985
+< blocka10571
+---
+> 
+> ../blocka/blocka10571
+4420c4993,4994
+< blocka10572
+---
+> 
+> ../blocka/blocka10572
+4427c5001,5002
+< blocka10573
+---
+> 
+> ../blocka/blocka10573
+4433c5008,5009
+< blocka10574
+---
+> 
+> ../blocka/blocka10574
+4439c5015,5016
+< blocka10575
+---
+> 
+> ../blocka/blocka10575
+4446c5023,5024
+< blocka10576
+---
+> 
+> ../blocka/blocka10576
+4454c5032,5033
+< blocka10577
+---
+> 
+> ../blocka/blocka10577
+4463c5042,5043
+< blocka10578
+---
+> 
+> ../blocka/blocka10578
+4471c5051,5052
+< blocka10579
+---
+> 
+> ../blocka/blocka10579
+4478c5059,5060
+< blocka10580
+---
+> 
+> ../blocka/blocka10580
+4484c5066,5067
+< blocka10581
+---
+> 
+> ../blocka/blocka10581
+4491c5074,5075
+< blocka10582
+---
+> 
+> ../blocka/blocka10582
+4499c5083,5084
+< blocka10583
+---
+> 
+> ../blocka/blocka10583
+4508c5093,5094
+< blocka10584
+---
+> 
+> ../blocka/blocka10584
+4515c5101,5102
+< blocka10585
+---
+> 
+> ../blocka/blocka10585
+4520c5107,5108
+< blocka10586
+---
+> 
+> ../blocka/blocka10586
+4528c5116,5117
+< blocka10587
+---
+> 
+> ../blocka/blocka10587
+4538c5127,5128
+< blocka10588
+---
+> 
+> ../blocka/blocka10588
+4547c5137,5138
+< blocka10589
+---
+> 
+> ../blocka/blocka10589
+4551c5142,5143
+< blocka10590
+---
+> 
+> ../blocka/blocka10590
+4557c5149,5150
+< blocka10591
+---
+> 
+> ../blocka/blocka10591
+4559,4565c5152,5158
+< Station 18, 15 crimson
+< Station 17, 19 chartreuse
+< Station 16, 22 blue
+< Station 14, 22 blanchedalmond
+< Station 13, 22 bisque
+< Station 12, 19 burlywood
+< Station 11, 16 cornflowerblue
+---
+> Station 15, 11 darkgreen
+> Station 11, 11 darkgray
+> Station 9, 6 darksalmon
+> Station 8, 3 deeppink
+> Station 7, 3 darkviolet
+> Station 8, 6 darkred
+> Station 9, 10 darkmagenta
+4568c5161,5162
+< blocka10592
+---
+> 
+> ../blocka/blocka10592
+4577c5171,5172
+< blocka10593
+---
+> 
+> ../blocka/blocka10593
+4582c5177,5178
+< blocka10594
+---
+> 
+> ../blocka/blocka10594
+4586c5182,5183
+< blocka10595
+---
+> 
+> ../blocka/blocka10595
+4596c5193,5194
+< blocka10596
+---
+> 
+> ../blocka/blocka10596
+4606c5204,5205
+< blocka10597
+---
+> 
+> ../blocka/blocka10597
+4615c5214,5215
+< blocka10598
+---
+> 
+> ../blocka/blocka10598
+4623c5223,5224
+< blocka10599
+---
+> 
+> ../blocka/blocka10599
+4632c5233,5234
+< blocka10600
+---
+> 
+> ../blocka/blocka10600
+4638c5240,5241
+< blocka10601
+---
+> 
+> ../blocka/blocka10601
+4642c5245,5246
+< blocka10602
+---
+> 
+> ../blocka/blocka10602
+4649c5253,5254
+< blocka10603
+---
+> 
+> ../blocka/blocka10603
+4658c5263,5264
+< blocka10604
+---
+> 
+> ../blocka/blocka10604
+4666c5272,5273
+< blocka10605
+---
+> 
+> ../blocka/blocka10605
+4673c5280,5281
+< blocka10606
+---
+> 
+> ../blocka/blocka10606
+4678c5286,5287
+< blocka10607
+---
+> 
+> ../blocka/blocka10607
+4684c5293,5294
+< blocka10608
+---
+> 
+> ../blocka/blocka10608
+4691c5301,5302
+< blocka10609
+---
+> 
+> ../blocka/blocka10609
+4699c5310,5311
+< blocka10610
+---
+> 
+> ../blocka/blocka10610
+4706c5318,5319
+< blocka10611
+---
+> 
+> ../blocka/blocka10611
+4714c5327,5328
+< blocka10612
+---
+> 
+> ../blocka/blocka10612
+4723c5337,5338
+< blocka10613
+---
+> 
+> ../blocka/blocka10613
+4733c5348,5349
+< blocka10614
+---
+> 
+> ../blocka/blocka10614
+4744c5360,5361
+< blocka10615
+---
+> 
+> ../blocka/blocka10615
+4750c5367,5368
+< blocka10616
+---
+> 
+> ../blocka/blocka10616
+4759c5377,5378
+< blocka10617
+---
+> 
+> ../blocka/blocka10617
+4769c5388,5389
+< blocka10618
+---
+> 
+> ../blocka/blocka10618
+4778c5398,5399
+< blocka10619
+---
+> 
+> ../blocka/blocka10619
+4783c5404,5405
+< blocka10620
+---
+> 
+> ../blocka/blocka10620
+4791c5413,5414
+< blocka10621
+---
+> 
+> ../blocka/blocka10621
+4793,4799c5416,5422
+< Station 8, 6 darkred
+< Station 7, 3 darkviolet
+< Station 8, 3 deeppink
+< Station 9, 6 darksalmon
+< Station 11, 11 darkgray
+< Station 15, 11 darkgreen
+< Station 19, 11 darkkhaki
+---
+> Station 10, 13 darkblue
+> Station 11, 16 cornflowerblue
+> Station 12, 19 burlywood
+> Station 13, 22 bisque
+> Station 14, 22 blanchedalmond
+> Station 16, 22 blue
+> Station 17, 19 chartreuse
+4802c5425,5426
+< blocka10622
+---
+> 
+> ../blocka/blocka10622
+4811c5435,5436
+< blocka10623
+---
+> 
+> ../blocka/blocka10623
+4815c5440,5441
+< blocka10624
+---
+> 
+> ../blocka/blocka10624
+4822c5448,5449
+< blocka10625
+---
+> 
+> ../blocka/blocka10625
+4830c5457,5458
+< blocka10626
+---
+> 
+> ../blocka/blocka10626
+4839c5467,5468
+< blocka10627
+---
+> 
+> ../blocka/blocka10627
+4849c5478,5479
+< blocka10628
+---
+> 
+> ../blocka/blocka10628
+4853c5483,5484
+< blocka10629
+---
+> 
+> ../blocka/blocka10629
+4858c5489,5490
+< blocka10630
+---
+> 
+> ../blocka/blocka10630
+4864c5496,5497
+< blocka10631
+---
+> 
+> ../blocka/blocka10631
+4868c5501,5502
+< blocka10632
+---
+> 
+> ../blocka/blocka10632
+4875c5509,5510
+< blocka10633
+---
+> 
+> ../blocka/blocka10633
+4885c5520,5521
+< blocka10634
+---
+> 
+> ../blocka/blocka10634
+4892c5528,5529
+< blocka10635
+---
+> 
+> ../blocka/blocka10635
+4898c5535,5536
+< blocka10636
+---
+> 
+> ../blocka/blocka10636
+4903c5541,5542
+< blocka10637
+---
+> 
+> ../blocka/blocka10637
+4909c5548,5549
+< blocka10638
+---
+> 
+> ../blocka/blocka10638
+4918c5558,5559
+< blocka10639
+---
+> 
+> ../blocka/blocka10639
+4926c5567,5568
+< blocka10640
+---
+> 
+> ../blocka/blocka10640
+4935c5577,5578
+< blocka10641
+---
+> 
+> ../blocka/blocka10641
+4944c5587,5588
+< blocka10642
+---
+> 
+> ../blocka/blocka10642
+4952c5596,5597
+< blocka10643
+---
+> 
+> ../blocka/blocka10643
+4961c5606,5607
+< blocka10644
+---
+> 
+> ../blocka/blocka10644
+4971c5617,5618
+< blocka10645
+---
+> 
+> ../blocka/blocka10645
+4980c5627,5628
+< blocka10646
+---
+> 
+> ../blocka/blocka10646
+4990c5638,5639
+< blocka10647
+---
+> 
+> ../blocka/blocka10647
+4997c5646,5647
+< blocka10648
+---
+> 
+> ../blocka/blocka10648
+5007c5657,5658
+< blocka10649
+---
+> 
+> ../blocka/blocka10649
+5018c5669,5670
+< blocka10650
+---
+> 
+> ../blocka/blocka10650
+5026c5678,5679
+< blocka10651
+---
+> 
+> ../blocka/blocka10651
+5032c5685,5686
+< blocka10652
+---
+> 
+> ../blocka/blocka10652
+5039c5693,5694
+< blocka10653
+---
+> 
+> ../blocka/blocka10653
+5050c5705,5706
+< blocka10654
+---
+> 
+> ../blocka/blocka10654
+5060c5716,5717
+< blocka10655
+---
+> 
+> ../blocka/blocka10655
+5065c5722,5723
+< blocka10656
+---
+> 
+> ../blocka/blocka10656
+5071c5729,5730
+< blocka10657
+---
+> 
+> ../blocka/blocka10657
+5080c5739,5740
+< blocka10658
+---
+> 
+> ../blocka/blocka10658
+5090c5750,5751
+< blocka10659
+---
+> 
+> ../blocka/blocka10659
+5100c5761,5762
+< blocka10660
+---
+> 
+> ../blocka/blocka10660
+5104c5766,5767
+< blocka10661
+---
+> 
+> ../blocka/blocka10661
+5108c5771,5772
+< blocka10662
+---
+> 
+> ../blocka/blocka10662
+5113c5777,5778
+< blocka10663
+---
+> 
+> ../blocka/blocka10663
+5118c5783,5784
+< blocka10664
+---
+> 
+> ../blocka/blocka10664
+5126c5792,5793
+< blocka10665
+---
+> 
+> ../blocka/blocka10665
+5135c5802,5803
+< blocka10666
+---
+> 
+> ../blocka/blocka10666
+5141c5809,5810
+< blocka10667
+---
+> 
+> ../blocka/blocka10667
+5148c5817,5818
+< blocka10668
+---
+> 
+> ../blocka/blocka10668
+5154c5824,5825
+< blocka10669
+---
+> 
+> ../blocka/blocka10669
+5161c5832,5833
+< blocka10670
+---
+> 
+> ../blocka/blocka10670
+5169c5841,5842
+< blocka10671
+---
+> 
+> ../blocka/blocka10671
+5176c5849,5850
+< blocka10672
+---
+> 
+> ../blocka/blocka10672
+5184c5858,5859
+< blocka10673
+---
+> 
+> ../blocka/blocka10673
+5194c5869,5870
+< blocka10674
+---
+> 
+> ../blocka/blocka10674
+5203c5879,5880
+< blocka10675
+---
+> 
+> ../blocka/blocka10675
+5213c5890,5891
+< blocka10676
+---
+> 
+> ../blocka/blocka10676
+5222c5900,5901
+< blocka10677
+---
+> 
+> ../blocka/blocka10677
+5230c5909,5910
+< blocka10678
+---
+> 
+> ../blocka/blocka10678
+5239c5919,5920
+< blocka10679
+---
+> 
+> ../blocka/blocka10679
+5247c5928,5929
+< blocka10680
+---
+> 
+> ../blocka/blocka10680
+5258c5940,5941
+< blocka10681
+---
+> 
+> ../blocka/blocka10681
+5268c5951,5952
+< blocka10682
+---
+> 
+> ../blocka/blocka10682
+5275c5959,5960
+< blocka10683
+---
+> 
+> ../blocka/blocka10683
+5282c5967,5968
+< blocka10684
+---
+> 
+> ../blocka/blocka10684
+5288c5974,5975
+< blocka10685
+---
+> 
+> ../blocka/blocka10685
+5298c5985,5986
+< blocka10686
+---
+> 
+> ../blocka/blocka10686
+5309c5997,5998
+< blocka10687
+---
+> 
+> ../blocka/blocka10687
+5315c6004,6005
+< blocka10688
+---
+> 
+> ../blocka/blocka10688
+5320c6010,6011
+< blocka10689
+---
+> 
+> ../blocka/blocka10689
+5330c6021,6022
+< blocka10690
+---
+> 
+> ../blocka/blocka10690
+5340c6032,6033
+< blocka10691
+---
+> 
+> ../blocka/blocka10691
+5349c6042,6043
+< blocka10692
+---
+> 
+> ../blocka/blocka10692
+5354c6048,6049
+< blocka10693
+---
+> 
+> ../blocka/blocka10693
+5358c6053,6054
+< blocka10694
+---
+> 
+> ../blocka/blocka10694
+5362c6058,6059
+< blocka10695
+---
+> 
+> ../blocka/blocka10695
+5368c6065,6066
+< blocka10696
+---
+> 
+> ../blocka/blocka10696
+5377c6075,6076
+< blocka10697
+---
+> 
+> ../blocka/blocka10697
+5385c6084,6085
+< blocka10698
+---
+> 
+> ../blocka/blocka10698
+5390c6090,6091
+< blocka10699
+---
+> 
+> ../blocka/blocka10699
+5398c6099,6100
+< blocka10700
+---
+> 
+> ../blocka/blocka10700
+5405c6107,6108
+< blocka10701
+---
+> 
+> ../blocka/blocka10701
+5413c6116,6117
+< blocka10702
+---
+> 
+> ../blocka/blocka10702
+5420c6124,6125
+< blocka10703
+---
+> 
+> ../blocka/blocka10703
+5426c6131,6132
+< blocka10704
+---
+> 
+> ../blocka/blocka10704
+5433c6139,6140
+< blocka10705
+---
+> 
+> ../blocka/blocka10705
+5435,5440c6142,6147
+< Station 20, 13 darkcyan
+< Station 19, 16 cornsilk
+< Station 18, 19 coral
+< Station 17, 22 blueviolet
+< Station 16, 22 blue
+< Station 14, 22 blanchedalmond
+---
+> Station 17, 10 darkorange
+> Station 13, 10 darkolivegreen
+> Station 9, 10 darkmagenta
+> Station 10, 13 darkblue
+> Station 11, 16 cornflowerblue
+> Station 12, 19 burlywood
+5444c6151,6152
+< blocka10706
+---
+> 
+> ../blocka/blocka10706
+5446,5451c6154,6159
+< Station 20, 13 darkcyan
+< Station 19, 16 cornsilk
+< Station 18, 19 coral
+< Station 17, 22 blueviolet
+< Station 16, 22 blue
+< Station 14, 22 blanchedalmond
+---
+> Station 17, 10 darkorange
+> Station 13, 10 darkolivegreen
+> Station 9, 10 darkmagenta
+> Station 10, 13 darkblue
+> Station 11, 16 cornflowerblue
+> Station 12, 19 burlywood
+5454c6162,6163
+< blocka10707
+---
+> 
+> ../blocka/blocka10707
+5463c6172,6173
+< blocka10708
+---
+> 
+> ../blocka/blocka10708
+5471c6181,6182
+< blocka10709
+---
+> 
+> ../blocka/blocka10709
+5478c6189,6190
+< blocka10710
+---
+> 
+> ../blocka/blocka10710
+5486c6198,6199
+< blocka10711
+---
+> 
+> ../blocka/blocka10711
+5495c6208,6209
+< blocka10712
+---
+> 
+> ../blocka/blocka10712
+5505c6219,6220
+< blocka10713
+---
+> 
+> ../blocka/blocka10713
+5514c6229,6230
+< blocka10714
+---
+> 
+> ../blocka/blocka10714
+5520c6236,6237
+< blocka10715
+---
+> 
+> ../blocka/blocka10715
+5528c6245,6246
+< blocka10716
+---
+> 
+> ../blocka/blocka10716
+5533c6251,6252
+< blocka10717
+---
+> 
+> ../blocka/blocka10717
+5542c6261,6262
+< blocka10718
+---
+> 
+> ../blocka/blocka10718
+5544,5550c6264,6270
+< Station 22, 6 darkslateblue
+< Station 23, 3 dimgray
+< Station 22, 3 deepskyblue
+< Station 21, 6 darkseagreen
+< Station 19, 11 darkkhaki
+< Station 15, 11 darkgreen
+< Station 11, 11 darkgray
+---
+> Station 20, 13 darkcyan
+> Station 19, 16 cornsilk
+> Station 18, 19 coral
+> Station 17, 22 blueviolet
+> Station 16, 22 blue
+> Station 14, 22 blanchedalmond
+> Station 13, 19 cadetblue
+5553c6273,6274
+< blocka10719
+---
+> 
+> ../blocka/blocka10719
+5560c6281,6282
+< blocka10720
+---
+> 
+> ../blocka/blocka10720
+5564c6286,6287
+< blocka10721
+---
+> 
+> ../blocka/blocka10721
+5574c6297,6298
+< blocka10722
+---
+> 
+> ../blocka/blocka10722
+5583c6307,6308
+< blocka10723
+---
+> 
+> ../blocka/blocka10723
+5591c6316,6317
+< blocka10724
+---
+> 
+> ../blocka/blocka10724
+5597c6323,6324
+< blocka10725
+---
+> 
+> ../blocka/blocka10725
+5602c6329,6330
+< blocka10726
+---
+> 
+> ../blocka/blocka10726
+5606c6334,6335
+< blocka10727
+---
+> 
+> ../blocka/blocka10727
+5613c6342,6343
+< blocka10728
+---
+> 
+> ../blocka/blocka10728
+5623c6353,6354
+< blocka10729
+---
+> 
+> ../blocka/blocka10729
+5630c6361,6362
+< blocka10730
+---
+> 
+> ../blocka/blocka10730
+5634c6366,6367
+< blocka10731
+---
+> 
+> ../blocka/blocka10731
+5643c6376,6377
+< blocka10732
+---
+> 
+> ../blocka/blocka10732
+5651c6385,6386
+< blocka10733
+---
+> 
+> ../blocka/blocka10733
+5660c6395,6396
+< blocka10734
+---
+> 
+> ../blocka/blocka10734
+5666c6402,6403
+< blocka10735
+---
+> 
+> ../blocka/blocka10735
+5671c6408,6409
+< blocka10736
+---
+> 
+> ../blocka/blocka10736
+5677c6415,6416
+< blocka10737
+---
+> 
+> ../blocka/blocka10737
+5686c6425,6426
+< blocka10738
+---
+> 
+> ../blocka/blocka10738
+5694c6434,6435
+< blocka10739
+---
+> 
+> ../blocka/blocka10739
+5703c6444,6445
+< blocka10740
+---
+> 
+> ../blocka/blocka10740
+5713c6455,6456
+< blocka10741
+---
+> 
+> ../blocka/blocka10741
+5724c6467,6468
+< blocka10742
+---
+> 
+> ../blocka/blocka10742
+5736c6480,6481
+< blocka10743
+---
+> 
+> ../blocka/blocka10743
+5743c6488,6489
+< blocka10744
+---
+> 
+> ../blocka/blocka10744
+5752c6498,6499
+< blocka10745
+---
+> 
+> ../blocka/blocka10745
+5763c6510,6511
+< blocka10746
+---
+> 
+> ../blocka/blocka10746
+5773c6521,6522
+< blocka10747
+---
+> 
+> ../blocka/blocka10747
+5779c6528,6529
+< blocka10748
+---
+> 
+> ../blocka/blocka10748
+5788c6538,6539
+< blocka10749
+---
+> 
+> ../blocka/blocka10749
+5798c6549,6550
+< blocka10750
+---
+> 
+> ../blocka/blocka10750
+5806c6558,6559
+< blocka10751
+---
+> 
+> ../blocka/blocka10751
+5811c6564,6565
+< blocka10752
+---
+> 
+> ../blocka/blocka10752
+5819c6573,6574
+< blocka10753
+---
+> 
+> ../blocka/blocka10753
+5826c6581,6582
+< blocka10754
+---
+> 
+> ../blocka/blocka10754
+5834c6590,6591
+< blocka10755
+---
+> 
+> ../blocka/blocka10755
+5843c6600,6601
+< blocka10756
+---
+> 
+> ../blocka/blocka10756
+5847c6605,6606
+< blocka10757
+---
+> 
+> ../blocka/blocka10757
+5852c6611,6612
+< blocka10758
+---
+> 
+> ../blocka/blocka10758
+5858c6618,6619
+< blocka10759
+---
+> 
+> ../blocka/blocka10759
+5865c6626,6627
+< blocka10760
+---
+> 
+> ../blocka/blocka10760
+5871c6633,6634
+< blocka10761
+---
+> 
+> ../blocka/blocka10761
+5881c6644,6645
+< blocka10762
+---
+> 
+> ../blocka/blocka10762
+5889c6653,6654
+< blocka10763
+---
+> 
+> ../blocka/blocka10763
+5894c6659,6660
+< blocka10764
+---
+> 
+> ../blocka/blocka10764
+5898c6664,6665
+< blocka10765
+---
+> 
+> ../blocka/blocka10765
+5903c6670,6671
+< blocka10766
+---
+> 
+> ../blocka/blocka10766
+5913c6681,6682
+< blocka10767
+---
+> 
+> ../blocka/blocka10767
+5922c6691,6692
+< blocka10768
+---
+> 
+> ../blocka/blocka10768
+5932c6702,6703
+< blocka10769
+---
+> 
+> ../blocka/blocka10769
+5941c6712,6713
+< blocka10770
+---
+> 
+> ../blocka/blocka10770
+5949c6721,6722
+< blocka10771
+---
+> 
+> ../blocka/blocka10771
+5956c6729,6730
+< blocka10772
+---
+> 
+> ../blocka/blocka10772
+5964c6738,6739
+< blocka10773
+---
+> 
+> ../blocka/blocka10773
+5973c6748,6749
+< blocka10774
+---
+> 
+> ../blocka/blocka10774
+5983c6759,6760
+< blocka10775
+---
+> 
+> ../blocka/blocka10775
+5992c6769,6770
+< blocka10776
+---
+> 
+> ../blocka/blocka10776
+5998c6776,6777
+< blocka10777
+---
+> 
+> ../blocka/blocka10777
+6006c6785,6786
+< blocka10778
+---
+> 
+> ../blocka/blocka10778
+6016c6796,6797
+< blocka10779
+---
+> 
+> ../blocka/blocka10779
+6025c6806,6807
+< blocka10780
+---
+> 
+> ../blocka/blocka10780
+6036c6818,6819
+< blocka10781
+---
+> 
+> ../blocka/blocka10781
+6043c6826,6827
+< blocka10782
+---
+> 
+> ../blocka/blocka10782
+6048c6832,6833
+< blocka10783
+---
+> 
+> ../blocka/blocka10783
+6056c6841,6842
+< blocka10784
+---
+> 
+> ../blocka/blocka10784
+6067c6853,6854
+< blocka10785
+---
+> 
+> ../blocka/blocka10785
+6071c6858,6859
+< blocka10786
+---
+> 
+> ../blocka/blocka10786
+6076c6864,6865
+< blocka10787
+---
+> 
+> ../blocka/blocka10787
+6082c6871,6872
+< blocka10788
+---
+> 
+> ../blocka/blocka10788
+6089c6879,6880
+< blocka10789
+---
+> 
+> ../blocka/blocka10789
+6097c6888,6889
+< blocka10790
+---
+> 
+> ../blocka/blocka10790
+6106c6898,6899
+< blocka10791
+---
+> 
+> ../blocka/blocka10791
+6116c6909,6910
+< blocka10792
+---
+> 
+> ../blocka/blocka10792
+6122c6916,6917
+< blocka10793
+---
+> 
+> ../blocka/blocka10793
+6129c6924,6925
+< blocka10794
+---
+> 
+> ../blocka/blocka10794
+6139c6935,6936
+< blocka10795
+---
+> 
+> ../blocka/blocka10795
+6145c6942,6943
+< blocka10796
+---
+> 
+> ../blocka/blocka10796
+6150c6948,6949
+< blocka10797
+---
+> 
+> ../blocka/blocka10797
+6154c6953,6954
+< blocka10798
+---
+> 
+> ../blocka/blocka10798
+6162c6962,6963
+< blocka10799
+---
+> 
+> ../blocka/blocka10799
+6171c6972,6973
+< blocka10800
+---
+> 
+> ../blocka/blocka10800
+6181c6983,6984
+< blocka10801
+---
+> 
+> ../blocka/blocka10801
+6191c6994,6995
+< blocka10802
+---
+> 
+> ../blocka/blocka10802
+6200c7004,7005
+< blocka10803
+---
+> 
+> ../blocka/blocka10803
+6208c7013,7014
+< blocka10804
+---
+> 
+> ../blocka/blocka10804
+6215c7021,7022
+< blocka10805
+---
+> 
+> ../blocka/blocka10805
+6223c7030,7031
+< blocka10806
+---
+> 
+> ../blocka/blocka10806
+6232c7040,7041
+< blocka10807
+---
+> 
+> ../blocka/blocka10807
+6242c7051,7052
+< blocka10808
+---
+> 
+> ../blocka/blocka10808
+6250c7060,7061
+< blocka10809
+---
+> 
+> ../blocka/blocka10809
+6256c7067,7068
+< blocka10810
+---
+> 
+> ../blocka/blocka10810
+6265c7077,7078
+< blocka10811
+---
+> 
+> ../blocka/blocka10811
+6276c7089,7090
+< blocka10812
+---
+> 
+> ../blocka/blocka10812
+6285c7099,7100
+< blocka10813
+---
+> 
+> ../blocka/blocka10813
+6290c7105,7106
+< blocka10814
+---
+> 
+> ../blocka/blocka10814
+6297c7113,7114
+< blocka10815
+---
+> 
+> ../blocka/blocka10815
+6308c7125,7126
+< blocka10816
+---
+> 
+> ../blocka/blocka10816
+6316c7134,7135
+< blocka10817
+---
+> 
+> ../blocka/blocka10817
+6322c7141,7142
+< blocka10818
+---
+> 
+> ../blocka/blocka10818
+6327c7147,7148
+< blocka10819
+---
+> 
+> ../blocka/blocka10819
+6331c7152,7153
+< blocka10820
+---
+> 
+> ../blocka/blocka10820
+6341c7163,7164
+< blocka10821
+---
+> 
+> ../blocka/blocka10821
+6350c7173,7174
+< blocka10822
+---
+> 
+> ../blocka/blocka10822
+6358c7182,7183
+< blocka10823
+---
+> 
+> ../blocka/blocka10823
+6365c7190,7191
+< blocka10824
+---
+> 
+> ../blocka/blocka10824
+6375c7201,7202
+< blocka10825
+---
+> 
+> ../blocka/blocka10825
+6382c7209,7210
+< blocka10826
+---
+> 
+> ../blocka/blocka10826
+6388c7216,7217
+< blocka10827
+---
+> 
+> ../blocka/blocka10827
+6398c7227,7228
+< blocka10828
+---
+> 
+> ../blocka/blocka10828
+6407c7237,7238
+< blocka10829
+---
+> 
+> ../blocka/blocka10829
+6415c7246,7247
+< blocka10830
+---
+> 
+> ../blocka/blocka10830
+6419c7251,7252
+< blocka10831
+---
+> 
+> ../blocka/blocka10831
+6424c7257,7258
+< blocka10832
+---
+> 
+> ../blocka/blocka10832
+6430c7264,7265
+< blocka10833
+---
+> 
+> ../blocka/blocka10833
+6433,6438c7268,7273
+< Station 20, 13 darkcyan
+< Station 19, 16 cornsilk
+< Station 18, 19 coral
+< Station 17, 22 blueviolet
+< Station 16, 22 blue
+< Station 14, 22 blanchedalmond
+---
+> Station 17, 10 darkorange
+> Station 13, 10 darkolivegreen
+> Station 9, 10 darkmagenta
+> Station 10, 13 darkblue
+> Station 11, 16 cornflowerblue
+> Station 12, 19 burlywood
+6442c7277,7278
+< blocka10834
+---
+> 
+> ../blocka/blocka10834
+6445,6450c7281,7286
+< Station 20, 13 darkcyan
+< Station 19, 16 cornsilk
+< Station 18, 19 coral
+< Station 17, 22 blueviolet
+< Station 16, 22 blue
+< Station 14, 22 blanchedalmond
+---
+> Station 17, 10 darkorange
+> Station 13, 10 darkolivegreen
+> Station 9, 10 darkmagenta
+> Station 10, 13 darkblue
+> Station 11, 16 cornflowerblue
+> Station 12, 19 burlywood
+6453c7289,7290
+< blocka10835
+---
+> 
+> ../blocka/blocka10835
+6463c7300,7301
+< blocka10836
+---
+> 
+> ../blocka/blocka10836
+6472c7310,7311
+< blocka10837
+---
+> 
+> ../blocka/blocka10837
+6480c7319,7320
+< blocka10838
+---
+> 
+> ../blocka/blocka10838
+6489c7329,7330
+< blocka10839
+---
+> 
+> ../blocka/blocka10839
+6499c7340,7341
+< blocka10840
+---
+> 
+> ../blocka/blocka10840
+6510c7352,7353
+< blocka10841
+---
+> 
+> ../blocka/blocka10841
+6519c7362,7363
+< blocka10842
+---
+> 
+> ../blocka/blocka10842
+6526c7370,7371
+< blocka10843
+---
+> 
+> ../blocka/blocka10843
+6535c7380,7381
+< blocka10844
+---
+> 
+> ../blocka/blocka10844
+6541c7387,7388
+< blocka10845
+---
+> 
+> ../blocka/blocka10845
+6549c7396,7397
+< blocka10846
+---
+> 
+> ../blocka/blocka10846
+6559c7407,7408
+< blocka10847
+---
+> 
+> ../blocka/blocka10847
+6567c7416,7417
+< blocka10848
+---
+> 
+> ../blocka/blocka10848
+6572c7422,7423
+< blocka10849
+---
+> 
+> ../blocka/blocka10849
+6581c7432,7433
+< blocka10850
+---
+> 
+> ../blocka/blocka10850
+6589c7441,7442
+< blocka10851
+---
+> 
+> ../blocka/blocka10851
+6596c7449,7450
+< blocka10852
+---
+> 
+> ../blocka/blocka10852
+6603c7457,7458
+< blocka10853
+---
+> 
+> ../blocka/blocka10853
+6609c7464,7465
+< blocka10854
+---
+> 
+> ../blocka/blocka10854
+6614c7470,7471
+< blocka10855
+---
+> 
+> ../blocka/blocka10855
+6618c7475,7476
+< blocka10856
+---
+> 
+> ../blocka/blocka10856
+6626c7484,7485
+< blocka10857
+---
+> 
+> ../blocka/blocka10857
+6636c7495,7496
+< blocka10858
+---
+> 
+> ../blocka/blocka10858
+6642c7502,7503
+< blocka10859
+---
+> 
+> ../blocka/blocka10859
+6652c7513,7514
+< blocka10860
+---
+> 
+> ../blocka/blocka10860
+6661c7523,7524
+< blocka10861
+---
+> 
+> ../blocka/blocka10861
+6671c7534,7535
+< blocka10862
+---
+> 
+> ../blocka/blocka10862
+6676c7540,7541
+< blocka10863
+---
+> 
+> ../blocka/blocka10863
+6680c7545,7546
+< blocka10864
+---
+> 
+> ../blocka/blocka10864
+6685c7551,7552
+< blocka10865
+---
+> 
+> ../blocka/blocka10865
+6696c7563,7564
+< blocka10866
+---
+> 
+> ../blocka/blocka10866
+6706c7574,7575
+< blocka10867
+---
+> 
+> ../blocka/blocka10867
+6716c7585,7586
+< blocka10868
+---
+> 
+> ../blocka/blocka10868
+6727c7597,7598
+< blocka10869
+---
+> 
+> ../blocka/blocka10869
+6739c7610,7611
+< blocka10870
+---
+> 
+> ../blocka/blocka10870
+6752c7624,7625
+< blocka10871
+---
+> 
+> ../blocka/blocka10871
+6761c7634,7635
+< blocka10872
+---
+> 
+> ../blocka/blocka10872
+6770c7644,7645
+< blocka10873
+---
+> 
+> ../blocka/blocka10873
+6781c7656,7657
+< blocka10874
+---
+> 
+> ../blocka/blocka10874
+6793c7669,7670
+< blocka10875
+---
+> 
+> ../blocka/blocka10875
+6801c7678,7679
+< blocka10876
+---
+> 
+> ../blocka/blocka10876
+6812c7690,7691
+< blocka10877
+---
+> 
+> ../blocka/blocka10877
+6822c7701,7702
+< blocka10878
+---
+> 
+> ../blocka/blocka10878
+6830c7710,7711
+< blocka10879
+---
+> 
+> ../blocka/blocka10879
+6837c7718,7719
+< blocka10880
+---
+> 
+> ../blocka/blocka10880
+6847c7729,7730
+< blocka10881
+---
+> 
+> ../blocka/blocka10881
+6854c7737,7738
+< blocka10882
+---
+> 
+> ../blocka/blocka10882
+6862c7746,7747
+< blocka10883
+---
+> 
+> ../blocka/blocka10883
+6871c7756,7757
+< blocka10884
+---
+> 
+> ../blocka/blocka10884
+6877c7763,7764
+< blocka10885
+---
+> 
+> ../blocka/blocka10885
+6884c7771,7772
+< blocka10886
+---
+> 
+> ../blocka/blocka10886
+6892c7780,7781
+< blocka10887
+---
+> 
+> ../blocka/blocka10887
+6901c7790,7791
+< blocka10888
+---
+> 
+> ../blocka/blocka10888
+6906c7796,7797
+< blocka10889
+---
+> 
+> ../blocka/blocka10889
+6912c7803,7804
+< blocka10890
+---
+> 
+> ../blocka/blocka10890
+6922c7814,7815
+< blocka10891
+---
+> 
+> ../blocka/blocka10891
+6932c7825,7826
+< blocka10892
+---
+> 
+> ../blocka/blocka10892
+6936c7830,7831
+< blocka10893
+---
+> 
+> ../blocka/blocka10893
+6941c7836,7837
+< blocka10894
+---
+> 
+> ../blocka/blocka10894
+6952c7848,7849
+< blocka10895
+---
+> 
+> ../blocka/blocka10895
+6963c7860,7861
+< blocka10896
+---
+> 
+> ../blocka/blocka10896
+6975c7873,7874
+< blocka10897
+---
+> 
+> ../blocka/blocka10897
+6985c7884,7885
+< blocka10898
+---
+> 
+> ../blocka/blocka10898
+6994c7894,7895
+< blocka10899
+---
+> 
+> ../blocka/blocka10899
+7003c7904,7905
+< blocka10900
+---
+> 
+> ../blocka/blocka10900
+7013c7915,7916
+< blocka10901
+---
+> 
+> ../blocka/blocka10901
+7024c7927,7928
+< blocka10902
+---
+> 
+> ../blocka/blocka10902
+7036c7940,7941
+< blocka10903
+---
+> 
+> ../blocka/blocka10903
+7044c7949,7950
+< blocka10904
+---
+> 
+> ../blocka/blocka10904
+7052c7958,7959
+< blocka10905
+---
+> 
+> ../blocka/blocka10905
+7062c7969,7970
+< blocka10906
+---
+> 
+> ../blocka/blocka10906
+7073c7981,7982
+< blocka10907
+---
+> 
+> ../blocka/blocka10907
+7080c7989,7990
+< blocka10908
+---
+> 
+> ../blocka/blocka10908
+7090c8000,8001
+< blocka10909
+---
+> 
+> ../blocka/blocka10909
+7099c8010,8011
+< blocka10910
+---
+> 
+> ../blocka/blocka10910
+7106c8018,8019
+< blocka10911
+---
+> 
+> ../blocka/blocka10911
+7112c8025,8026
+< blocka10912
+---
+> 
+> ../blocka/blocka10912
+7121c8035,8036
+< blocka10913
+---
+> 
+> ../blocka/blocka10913
+7127c8042,8043
+< blocka10914
+---
+> 
+> ../blocka/blocka10914
+7134c8050,8051
+< blocka10915
+---
+> 
+> ../blocka/blocka10915
+7142c8059,8060
+< blocka10916
+---
+> 
+> ../blocka/blocka10916
+7147c8065,8066
+< blocka10917
+---
+> 
+> ../blocka/blocka10917
+7153c8072,8073
+< blocka10918
+---
+> 
+> ../blocka/blocka10918
+7160c8080,8081
+< blocka10919
+---
+> 
+> ../blocka/blocka10919
+7168c8089,8090
+< blocka10920
+---
+> 
+> ../blocka/blocka10920
+7172c8094,8095
+< blocka10921
+---
+> 
+> ../blocka/blocka10921
+7177c8100,8101
+< blocka10922
+---
+> 
+> ../blocka/blocka10922
+7186c8110,8111
+< blocka10923
+---
+> 
+> ../blocka/blocka10923
+7195c8120,8121
+< blocka10924
+---
+> 
+> ../blocka/blocka10924
+7199c8125,8126
+< blocka10925
+---
+> 
+> ../blocka/blocka10925
+7203c8130,8131
+< blocka10926
+---
+> 
+> ../blocka/blocka10926
+7213c8141,8142
+< blocka10927
+---
+> 
+> ../blocka/blocka10927
+7223c8152,8153
+< blocka10928
+---
+> 
+> ../blocka/blocka10928
+7234c8164,8165
+< blocka10929
+---
+> 
+> ../blocka/blocka10929
+7244c8175,8176
+< blocka10930
+---
+> 
+> ../blocka/blocka10930
+7253c8185,8186
+< blocka10931
+---
+> 
+> ../blocka/blocka10931
+7261c8194,8195
+< blocka10932
+---
+> 
+> ../blocka/blocka10932
+7270c8204,8205
+< blocka10933
+---
+> 
+> ../blocka/blocka10933
+7280c8215,8216
+< blocka10934
+---
+> 
+> ../blocka/blocka10934
+7291c8227,8228
+< blocka10935
+---
+> 
+> ../blocka/blocka10935
+7300c8237,8238
+< blocka10936
+---
+> 
+> ../blocka/blocka10936
+7307c8245,8246
+< blocka10937
+---
+> 
+> ../blocka/blocka10937
+7316c8255,8256
+< blocka10938
+---
+> 
+> ../blocka/blocka10938
+7327c8267,8268
+< blocka10939
+---
+> 
+> ../blocka/blocka10939
+7335c8276,8277
+< blocka10940
+---
+> 
+> ../blocka/blocka10940
+7346c8288,8289
+< blocka10941
+---
+> 
+> ../blocka/blocka10941
+7354c8297,8298
+< blocka10942
+---
+> 
+> ../blocka/blocka10942
+7360c8304,8305
+< blocka10943
+---
+> 
+> ../blocka/blocka10943
+7367c8312,8313
+< blocka10944
+---
+> 
+> ../blocka/blocka10944
+7377c8323,8324
+< blocka10945
+---
+> 
+> ../blocka/blocka10945
+7382c8329,8330
+< blocka10946
+---
+> 
+> ../blocka/blocka10946
+7388c8336,8337
+< blocka10947
+---
+> 
+> ../blocka/blocka10947
+7395c8344,8345
+< blocka10948
+---
+> 
+> ../blocka/blocka10948
+7401c8351,8352
+< blocka10949
+---
+> 
+> ../blocka/blocka10949
+7408c8359,8360
+< blocka10950
+---
+> 
+> ../blocka/blocka10950
+7416c8368,8369
+< blocka10951
+---
+> 
+> ../blocka/blocka10951
+7425c8378,8379
+< blocka10952
+---
+> 
+> ../blocka/blocka10952
+7430c8384,8385
+< blocka10953
+---
+> 
+> ../blocka/blocka10953
+7434c8389,8390
+< blocka10954
+---
+> 
+> ../blocka/blocka10954
+7442c8398,8399
+< blocka10955
+---
+> 
+> ../blocka/blocka10955
+7452c8409,8410
+< blocka10956
+---
+> 
+> ../blocka/blocka10956
+7457c8415,8416
+< blocka10957
+---
+> 
+> ../blocka/blocka10957
+7461c8420,8421
+< blocka10958
+---
+> 
+> ../blocka/blocka10958
+7470c8430,8431
+< blocka10959
+---
+> 
+> ../blocka/blocka10959
+7480c8441,8442
+< blocka10960
+---
+> 
+> ../blocka/blocka10960
+7491c8453,8454
+< blocka10961
+---
+> 
+> ../blocka/blocka10961
+7502c8465,8466
+< blocka10962
+---
+> 
+> ../blocka/blocka10962
+7512c8476,8477
+< blocka10963
+---
+> 
+> ../blocka/blocka10963
+7521c8486,8487
+< blocka10964
+---
+> 
+> ../blocka/blocka10964
+7529c8495,8496
+< blocka10965
+---
+> 
+> ../blocka/blocka10965
+7538c8505,8506
+< blocka10966
+---
+> 
+> ../blocka/blocka10966
+7548c8516,8517
+< blocka10967
+---
+> 
+> ../blocka/blocka10967
+7559c8528,8529
+< blocka10968
+---
+> 
+> ../blocka/blocka10968
+7568c8538,8539
+< blocka10969
+---
+> 
+> ../blocka/blocka10969
+7575c8546,8547
+< blocka10970
+---
+> 
+> ../blocka/blocka10970
+7584c8556,8557
+< blocka10971
+---
+> 
+> ../blocka/blocka10971
+7595c8568,8569
+< blocka10972
+---
+> 
+> ../blocka/blocka10972
+7603c8577,8578
+< blocka10973
+---
+> 
+> ../blocka/blocka10973
+7609c8584,8585
+< blocka10974
+---
+> 
+> ../blocka/blocka10974
+7617c8593,8594
+< blocka10975
+---
+> 
+> ../blocka/blocka10975
+7627c8604,8605
+< blocka10976
+---
+> 
+> ../blocka/blocka10976
+7634c8612,8613
+< blocka10977
+---
+> 
+> ../blocka/blocka10977
+7641c8620,8621
+< blocka10978
+---
+> 
+> ../blocka/blocka10978
+7647c8627,8628
+< blocka10979
+---
+> 
+> ../blocka/blocka10979
+7652c8633,8634
+< blocka10980
+---
+> 
+> ../blocka/blocka10980
+7661c8643,8644
+< blocka10981
+---
+> 
+> ../blocka/blocka10981
+7669c8652,8653
+< blocka10982
+---
+> 
+> ../blocka/blocka10982
+7676c8660,8661
+< blocka10983
+---
+> 
+> ../blocka/blocka10983
+7682c8667,8668
+< blocka10984
+---
+> 
+> ../blocka/blocka10984
+7692c8678,8679
+< blocka10985
+---
+> 
+> ../blocka/blocka10985
+7700c8687,8688
+< blocka10986
+---
+> 
+> ../blocka/blocka10986
+7704c8692,8693
+< blocka10987
+---
+> 
+> ../blocka/blocka10987
+7709c8698,8699
+< blocka10988
+---
+> 
+> ../blocka/blocka10988
+7720c8710,8711
+< blocka10989
+---
+> 
+> ../blocka/blocka10989
+7730c8721,8722
+< blocka10990
+---
+> 
+> ../blocka/blocka10990
+7739c8731,8732
+< blocka10991
+---
+> 
+> ../blocka/blocka10991
+7743c8736,8737
+< blocka10992
+---
+> 
+> ../blocka/blocka10992
+7748c8742,8743
+< blocka10993
+---
+> 
+> ../blocka/blocka10993
+7760c8755,8756
+< blocka10994
+---
+> 
+> ../blocka/blocka10994
+7771c8767,8768
+< blocka10995
+---
+> 
+> ../blocka/blocka10995
+7781c8778,8779
+< blocka10996
+---
+> 
+> ../blocka/blocka10996
+7790c8788,8789
+< blocka10997
+---
+> 
+> ../blocka/blocka10997
+7799c8798,8799
+< blocka10998
+---
+> 
+> ../blocka/blocka10998
+7809c8809,8810
+< blocka10999
+---
+> 
+> ../blocka/blocka10999
+7820c8821,8822
+< blocka11000
+---
+> 
+> ../blocka/blocka11000
+7830c8832,8833
+< blocka11001
+---
+> 
+> ../blocka/blocka11001
+7838c8841,8842
+< blocka11002
+---
+> 
+> ../blocka/blocka11002
+7846c8850,8851
+< blocka11003
+---
+> 
+> ../blocka/blocka11003
+7856c8861,8862
+< blocka11004
+---
+> 
+> ../blocka/blocka11004
+7863c8869,8870
+< blocka11005
+---
+> 
+> ../blocka/blocka11005
+7870c8877,8878
+< blocka11006
+---
+> 
+> ../blocka/blocka11006
+7879c8887,8888
+< blocka11007
+---
+> 
+> ../blocka/blocka11007
+7888c8897,8898
+< blocka11008
+---
+> 
+> ../blocka/blocka11008
+7894c8904,8905
+< blocka11009
+---
+> 
+> ../blocka/blocka11009
+7902c8913,8914
+< blocka11010
+---
+> 
+> ../blocka/blocka11010
+7909c8921,8922
+< blocka11011
+---
+> 
+> ../blocka/blocka11011
+7915c8928,8929
+< blocka11012
+---
+> 
+> ../blocka/blocka11012
+7923c8937,8938
+< blocka11013
+---
+> 
+> ../blocka/blocka11013
+7930c8945,8946
+< blocka11014
+---
+> 
+> ../blocka/blocka11014
+7936c8952,8953
+< blocka11015
+---
+> 
+> ../blocka/blocka11015
+7941c8958,8959
+< blocka11016
+---
+> 
+> ../blocka/blocka11016
+7950c8968,8969
+< blocka11017
+---
+> 
+> ../blocka/blocka11017
+7959c8978,8979
+< blocka11018
+---
+> 
+> ../blocka/blocka11018
+7964c8984,8985
+< blocka11019
+---
+> 
+> ../blocka/blocka11019
+7968c8989,8990
+< blocka11020
+---
+> 
+> ../blocka/blocka11020
+7979c9001,9002
+< blocka11021
+---
+> 
+> ../blocka/blocka11021
+7989c9012,9013
+< blocka11022
+---
+> 
+> ../blocka/blocka11022
+7999c9023,9024
+< blocka11023
+---
+> 
+> ../blocka/blocka11023
+8003c9028,9029
+< blocka11024
+---
+> 
+> ../blocka/blocka11024
+8007c9033,9034
+< blocka11025
+---
+> 
+> ../blocka/blocka11025
+8020c9047,9048
+< blocka11026
+---
+> 
+> ../blocka/blocka11026
+8032c9060,9061
+< blocka11027
+---
+> 
+> ../blocka/blocka11027
+8043c9072,9073
+< blocka11028
+---
+> 
+> ../blocka/blocka11028
+8053c9083,9084
+< blocka11029
+---
+> 
+> ../blocka/blocka11029
+8063c9094,9095
+< blocka11030
+---
+> 
+> ../blocka/blocka11030
+8074c9106,9107
+< blocka11031
+---
+> 
+> ../blocka/blocka11031
+8086c9119,9120
+< blocka11032
+---
+> 
+> ../blocka/blocka11032
+8097c9131,9132
+< blocka11033
+---
+> 
+> ../blocka/blocka11033
+8106c9141,9142
+< blocka11034
+---
+> 
+> ../blocka/blocka11034
+8115c9151,9152
+< blocka11035
+---
+> 
+> ../blocka/blocka11035
+8126c9163,9164
+< blocka11036
+---
+> 
+> ../blocka/blocka11036
+8134c9172,9173
+< blocka11037
+---
+> 
+> ../blocka/blocka11037
+8142c9181,9182
+< blocka11038
+---
+> 
+> ../blocka/blocka11038
+8152c9192,9193
+< blocka11039
+---
+> 
+> ../blocka/blocka11039
+8162c9203,9204
+< blocka11040
+---
+> 
+> ../blocka/blocka11040
+8169c9211,9212
+< blocka11041
+---
+> 
+> ../blocka/blocka11041
+8178c9221,9222
+< blocka11042
+---
+> 
+> ../blocka/blocka11042
+8186c9230,9231
+< blocka11043
+---
+> 
+> ../blocka/blocka11043
+8193c9238,9239
+< blocka11044
+---
+> 
+> ../blocka/blocka11044
+8202c9248,9249
+< blocka11045
+---
+> 
+> ../blocka/blocka11045
+8210c9257,9258
+< blocka11046
+---
+> 
+> ../blocka/blocka11046
+8217c9265,9266
+< blocka11047
+---
+> 
+> ../blocka/blocka11047
+8223c9272,9273
+< blocka11048
+---
+> 
+> ../blocka/blocka11048
+8233c9283,9284
+< blocka11049
+---
+> 
+> ../blocka/blocka11049
+8243c9294,9295
+< blocka11050
+---
+> 
+> ../blocka/blocka11050
+8249c9301,9302
+< blocka11051
+---
+> 
+> ../blocka/blocka11051
+8254c9307,9308
+< blocka11052
+---
+> 
+> ../blocka/blocka11052
+8266c9320,9321
+< blocka11053
+---
+> 
+> ../blocka/blocka11053
+8277c9332,9333
+< blocka11054
+---
+> 
+> ../blocka/blocka11054
+8288c9344,9345
+< blocka11055
+---
+> 
+> ../blocka/blocka11055
+8293c9350,9351
+< blocka11056
+---
+> 
+> ../blocka/blocka11056
+8295c9353
+< Station 23, 3 dimgray
+\ No newline at end of file
+---
+> Station 23, 3 dimgray

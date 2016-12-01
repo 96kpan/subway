@@ -1,0 +1,9 @@
+#!/bin/bash
+
+rm outputFile
+
+for i in $( ls ); do
+	echo "" >> outputFile	
+	echo $i >> outputFile
+	cat ${i} >> outputFile
+done

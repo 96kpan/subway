@@ -75,7 +75,7 @@ public class SubwayDriver {
 		boolean ec = argv.length > 1 && argv[1].equals("--extra-credit");
 
 		// Read from standard input
-		driver(new BufferedReader(new InputStreamReader(System.in)), ec);
+		driver(new BufferedReader(new InputStreamReader(System.in)), true);
 	}
 
 	// Tedious error handling. If the state is bad, NO RETURN, just exit.

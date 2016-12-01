@@ -34,6 +34,8 @@ public class Node {
 	
 	//inserts element into the arraylist of our adjacencyList
 	public void addElement(Node p){
+		if(this.adjacencyList.contains(p))
+			return;
 		this.adjacencyList.add(p); //adds the Point p to the front of the list
 	}
 	

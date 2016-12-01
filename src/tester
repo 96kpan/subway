@@ -1,0 +1,9 @@
+#!/bin/bash
+
+rm outputFile
+
+for i in $( ls ../blocka/* ); do
+	echo "" >> outputFile	
+	echo $i >> outputFile
+	java SubwayDriver < ../blocka/${i} >> outputFile
+done 

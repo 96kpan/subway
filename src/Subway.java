@@ -146,6 +146,11 @@ public class Subway {
 	 * 
 	 */
 	public String route(Point start, Point finish) {
+		
+		//if one of the points do not exist, we exit out with NO PATH found
+		if(tree.search(start) == null || tree.search(finish) == null){
+			return "NO PATH";
+		}
 		StringBuilder s = new StringBuilder();
 
 		// checks if start is the same finish
@@ -236,20 +241,15 @@ public class Subway {
 	public void delete(Point loc) {
 
 		// splay the point's node to find the respective adjacency list
-		ArrayList list = tree.search(loc).adjacencyList;
-		Node removeNode = tree.search(loc);
+		ArrayList list = tree.search(loc).adjacencyList; //gets list of node
+		Node removeNode = tree.search(loc); //gets node
 
-		for (Object temp : list) {
-			((Node) temp).adjacencyList.remove((Node) removeNode); // removes
-																	// that
+		for(int i = 0; i < list.size(); i++){
+			//go to that node's adjacency list and delete that index
+			Node temp = (Node) list.get(i);
+			ArrayList tempList = temp.adjacencyList;
+			tempList.remove(removeNode);
 		}
-
-		// // removes every instance of point loc from all of respective
-		// // adjacency list
-		// for (int i = 0; i < list.size(); i++) {
-		// Node temp = (Node) list.get(i); // gets specific node at i
-		// temp.adjacencyList.remove((Node) removeNode); // removes that
-		// }
 
 		// then delete overall node
 		tree.delete(loc);
