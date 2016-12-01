@@ -1,0 +1,71 @@
+insert 11 22 beige
+insert 13 22 bisque
+insert 14 22 blanchedalmond
+insert 16 22 blue
+insert 17 22 blueviolet
+insert 19 22 brown
+insert 12 19 burlywood
+insert 13 19 cadetblue
+insert 17 19 chartreuse
+insert 18 19 coral
+insert 11 16 cornflowerblue
+insert 19 16 cornsilk
+insert 18 15 crimson
+insert 12 15 cyan
+insert 10 13 darkblue
+insert 20 13 darkcyan
+Adjacent 10 13 11 16
+Adjacent 20 13 19 16
+insert 11 11 darkgray
+insert 15 11 darkgreen
+insert 19 11 darkkhaki
+Adjacent 11 11 12 15
+Adjacent 15 11 11 11
+Adjacent 15 11 19 11
+Adjacent 19 11 18 15
+insert 9  10 darkmagenta
+insert 13 10 darkolivegreen
+insert 17 10 darkorange
+insert 21 10 darkorchid
+Adjacent 9 10 10 13
+Adjacent 9 10 13 10
+Adjacent 13 10 17 10
+Adjacent 17 10 21 10
+Adjacent 21 10 20 13
+insert  8  6 darkred
+insert  9  6 darksalmon
+insert 21  6 darkseagreen
+insert 22  6 darkslateblue
+Adjacent 8 6 9 10
+Adjacent 9 6 11 11
+Adjacent 21 6 19 11
+Adjacent 22 6 21 10
+insert  5  3 darkturquoise
+insert  7  3 darkviolet
+insert  8  3 deeppink
+insert 22  3 deepskyblue
+insert 23  3 dimgray
+insert 25  3 dodgerblue
+Adjacent 5 3 7 3
+Adjacent 7 3 8 3
+Adjacent 7 3 8 6
+Adjacent 8 3 9 6
+Adjacent 22 3 23 3
+Adjacent 23 3 25 3
+Adjacent 22 3 21 6
+Adjacent 23 3 22 6
+Adjacent 11 22 13 22
+Adjacent 13 22 14 22
+Adjacent 14 22 16 22
+Adjacent 16 22 17 22
+Adjacent 17 22 19 22
+Adjacent 12 19 13 22
+Adjacent 14 22 13 19
+Adjacent 18 19 17 22
+Adjacent 16 22 17 19
+Adjacent  20 22  12 19
+Adjacent 11 16 12 19
+Adjacent 19 16 18 19
+Adjacent 12 15 13 19
+Adjacent 18 15 17 19
+Route 9  6 14 22
