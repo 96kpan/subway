@@ -104,7 +104,7 @@ public class SubwayDriver {
 		/*
 		 * Instantiate the graph data structure.
 		 */
-		Subway subway = new Subway();
+		SubwayGraph subway = new SubwayGraph();
 
 		// Store state-machine state, and buffer for coordinates
 		int cmd_state = RESET, data_seq = X1IN, x1 = 0, y1 = 0, x2 = 0;

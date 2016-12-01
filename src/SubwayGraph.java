@@ -14,14 +14,14 @@ import java.lang.Math;
 import java.lang.InstantiationException;
 */
 
-public class Subway {
+public class SubwayGraph {
 
 	private SplayTree tree;
 	private Node root; // root of curr tree
 	private int v; // number of vertices
 
 	// construct an empty graph
-	public Subway() {
+	public SubwayGraph() {
 		tree = new SplayTree();
 		root = tree.root;
 		v = 0;
