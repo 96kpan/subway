@@ -13,6 +13,46 @@ import java.lang.StringBuilder;
 import java.lang.Math;
 import java.lang.InstantiationException;
 */
+/*
+ * Katie Pan
+ * CSC 345 Project 5 -> BFS
+ * In this project we will implement a graph data structure and breadth-first search, 
+ * then use it to find paths through a fictional subway system.  This project will build 
+ * off the dictionary from Project 4.
+ * 
+ * This project contains 4 methods (with potential private helper methods associated with
+ * each method). The required method is as followed (with descriptions in each):
+ * 
+ * 1. void insert(Point p, String s)
+ * 	  In this method, we will insert the "subway station" into our graph. Through my
+ * implementation, I will simply be inserting it into my splay tree that contains
+ * all of the stations. Initially when it is inserted, we start will empty everything, 
+ * empty adjancency list, etc. This is done through the node class in node.java file.
+ * If the point is repeated, I just update the sat information, which is done through 
+ * my splaytree class
+ * 
+ * 2. void adjacent(Point p, Point q)
+ * 	  In this method, we will be inserting the adjacent stations. Something I considered
+ * is we needed to add to both stations, not just one. So to do this, I first check if the point
+ * exists. If it doesn't, I automatically ignore by returning. This will prevent getting a null
+ * pointer exception. next, knowing that both points exists, then I add the points to each's 
+ * adj list. 
+ * 
+ * 3. String route(Point start, Point finish)
+ *    In this method, we will be finding the route between two points. Before we even look
+ * for a point, we must first check if both points exists (or even if one exists). If any of
+ * the two points do not exist, then we must return and ignore this command. Else and only if both 
+ * points exists, then we can look for a route. To look for the shortest route, we are using BFS,
+ * breadth first search. This search will give the shortest distance, assuming it is unweighted. 
+ * What happens is each node is stored in a queue and will be popped off, check if it's the finish
+ * destination, and then if not, add the rest of it's adj neighbors onto the queue. If we find the
+ * end destination, then we return the string representation. 
+ * 
+ * 4. (optional) void delete(Point p)
+ *    In this method, we will be deleting a subway station. To do this, we need to first delete
+ * all instances of the point p in all of p's adjs stations. After we delete that, then we can delete
+ * point p's station. Also, to prevent a nullpointerexception, we must first check if point p exists.
+ */
 
 public class SubwayGraph {
 
