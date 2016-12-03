@@ -39,12 +39,13 @@ public class Node {
 		this.adjacencyList.add(p); //adds the Point p to the front of the list
 	}
 	
+	//helper method that will iterate through the entire list and print it out
 	public String toStringAdjacencyList(){
-		String s = "\n";
+		String s = "\n"; //adds new line for formating
 		for(int i = 0; i < this.adjacencyList.size(); i++){
-			s += this.adjacencyList.get(i).toString() + "\n";
+			s += this.adjacencyList.get(i).toString() + "\n"; //concats onto string
 		}
 		
-		return s;
+		return s; //returns string
 	}
 }
