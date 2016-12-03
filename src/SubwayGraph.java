@@ -70,26 +70,7 @@ public class SubwayGraph {
 	// optional debug representation of graph
 	public String toString() {
 		// calls helper method. pass in an empty string and node ROOT
-		return inOrder("", root);
-	}
-
-	private String inOrder(String string, Node head) {
-		// traverse to left-most node on the tree
-		if (head.left != null)
-			// recursively call the inOrder method
-			string = inOrder(string, head.left);
-
-		// reach a node where there is no more LEFT
-		// thus adds the satellite data into our string
-		string += " " + head.satellite;
-
-		// traverse to the right nodes on the tree
-		if (head.right != null)
-			// recursively call the inOrder method
-			string = inOrder(string, head.right);
-
-		// trims just in case there is an extra spaces
-		return string.trim();
+		return tree.toString();
 	}
 
 	// Add vertex to the graph
